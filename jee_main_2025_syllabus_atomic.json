@@ -1,0 +1,3930 @@
+{
+  "syllabus": "JEE Main 2025 - Paper 1 (B.E./B.Tech.)",
+  "source": "NTA JEE (Main) 2025 Syllabus - Mathematics, Physics and Chemistry",
+  "granularity": "atomic knowledge components",
+  "subjects": [
+    {
+      "subject_id": 1,
+      "subject_code": "MATH",
+      "subject_name": "Mathematics",
+      "chapters": [
+        {
+          "chapter_id": "MATH-U01",
+          "subject_id": 1,
+          "unit_number": 1,
+          "chapter_name": "Sets, Relations and Functions",
+          "knowledge_components": [
+            {
+              "kc_id": "MATH-U01-KC01",
+              "chapter_id": "MATH-U01",
+              "sequence": 1,
+              "knowledge_component": "Sets and their representation"
+            },
+            {
+              "kc_id": "MATH-U01-KC02",
+              "chapter_id": "MATH-U01",
+              "sequence": 2,
+              "knowledge_component": "Union of sets"
+            },
+            {
+              "kc_id": "MATH-U01-KC03",
+              "chapter_id": "MATH-U01",
+              "sequence": 3,
+              "knowledge_component": "Intersection of sets"
+            },
+            {
+              "kc_id": "MATH-U01-KC04",
+              "chapter_id": "MATH-U01",
+              "sequence": 4,
+              "knowledge_component": "Complement of a set"
+            },
+            {
+              "kc_id": "MATH-U01-KC05",
+              "chapter_id": "MATH-U01",
+              "sequence": 5,
+              "knowledge_component": "Algebraic properties of set operations"
+            },
+            {
+              "kc_id": "MATH-U01-KC06",
+              "chapter_id": "MATH-U01",
+              "sequence": 6,
+              "knowledge_component": "Power set"
+            },
+            {
+              "kc_id": "MATH-U01-KC07",
+              "chapter_id": "MATH-U01",
+              "sequence": 7,
+              "knowledge_component": "Relations and their representation"
+            },
+            {
+              "kc_id": "MATH-U01-KC08",
+              "chapter_id": "MATH-U01",
+              "sequence": 8,
+              "knowledge_component": "Types of relations"
+            },
+            {
+              "kc_id": "MATH-U01-KC09",
+              "chapter_id": "MATH-U01",
+              "sequence": 9,
+              "knowledge_component": "Equivalence relations"
+            },
+            {
+              "kc_id": "MATH-U01-KC10",
+              "chapter_id": "MATH-U01",
+              "sequence": 10,
+              "knowledge_component": "Functions and their representation"
+            },
+            {
+              "kc_id": "MATH-U01-KC11",
+              "chapter_id": "MATH-U01",
+              "sequence": 11,
+              "knowledge_component": "One-one (injective) functions"
+            },
+            {
+              "kc_id": "MATH-U01-KC12",
+              "chapter_id": "MATH-U01",
+              "sequence": 12,
+              "knowledge_component": "Into functions"
+            },
+            {
+              "kc_id": "MATH-U01-KC13",
+              "chapter_id": "MATH-U01",
+              "sequence": 13,
+              "knowledge_component": "Onto (surjective) functions"
+            },
+            {
+              "kc_id": "MATH-U01-KC14",
+              "chapter_id": "MATH-U01",
+              "sequence": 14,
+              "knowledge_component": "Composition of functions"
+            }
+          ]
+        },
+        {
+          "chapter_id": "MATH-U02",
+          "subject_id": 1,
+          "unit_number": 2,
+          "chapter_name": "Complex Numbers and Quadratic Equations",
+          "knowledge_components": [
+            {
+              "kc_id": "MATH-U02-KC01",
+              "chapter_id": "MATH-U02",
+              "sequence": 1,
+              "knowledge_component": "Complex numbers as ordered pairs of reals"
+            },
+            {
+              "kc_id": "MATH-U02-KC02",
+              "chapter_id": "MATH-U02",
+              "sequence": 2,
+              "knowledge_component": "Representation of a complex number in the form a+ib"
+            },
+            {
+              "kc_id": "MATH-U02-KC03",
+              "chapter_id": "MATH-U02",
+              "sequence": 3,
+              "knowledge_component": "Representation of a complex number in a plane (Argand diagram)"
+            },
+            {
+              "kc_id": "MATH-U02-KC04",
+              "chapter_id": "MATH-U02",
+              "sequence": 4,
+              "knowledge_component": "Algebra of complex numbers"
+            },
+            {
+              "kc_id": "MATH-U02-KC05",
+              "chapter_id": "MATH-U02",
+              "sequence": 5,
+              "knowledge_component": "Modulus of a complex number"
+            },
+            {
+              "kc_id": "MATH-U02-KC06",
+              "chapter_id": "MATH-U02",
+              "sequence": 6,
+              "knowledge_component": "Argument (amplitude) of a complex number"
+            },
+            {
+              "kc_id": "MATH-U02-KC07",
+              "chapter_id": "MATH-U02",
+              "sequence": 7,
+              "knowledge_component": "Quadratic equations in the real number system and their solutions"
+            },
+            {
+              "kc_id": "MATH-U02-KC08",
+              "chapter_id": "MATH-U02",
+              "sequence": 8,
+              "knowledge_component": "Quadratic equations in the complex number system and their solutions"
+            },
+            {
+              "kc_id": "MATH-U02-KC09",
+              "chapter_id": "MATH-U02",
+              "sequence": 9,
+              "knowledge_component": "Relations between roots and coefficients"
+            },
+            {
+              "kc_id": "MATH-U02-KC10",
+              "chapter_id": "MATH-U02",
+              "sequence": 10,
+              "knowledge_component": "Nature of roots (discriminant)"
+            },
+            {
+              "kc_id": "MATH-U02-KC11",
+              "chapter_id": "MATH-U02",
+              "sequence": 11,
+              "knowledge_component": "Formation of quadratic equations with given roots"
+            }
+          ]
+        },
+        {
+          "chapter_id": "MATH-U03",
+          "subject_id": 1,
+          "unit_number": 3,
+          "chapter_name": "Matrices and Determinants",
+          "knowledge_components": [
+            {
+              "kc_id": "MATH-U03-KC01",
+              "chapter_id": "MATH-U03",
+              "sequence": 1,
+              "knowledge_component": "Matrices and their representation"
+            },
+            {
+              "kc_id": "MATH-U03-KC02",
+              "chapter_id": "MATH-U03",
+              "sequence": 2,
+              "knowledge_component": "Algebra of matrices"
+            },
+            {
+              "kc_id": "MATH-U03-KC03",
+              "chapter_id": "MATH-U03",
+              "sequence": 3,
+              "knowledge_component": "Types of matrices"
+            },
+            {
+              "kc_id": "MATH-U03-KC04",
+              "chapter_id": "MATH-U03",
+              "sequence": 4,
+              "knowledge_component": "Determinants of order two and three"
+            },
+            {
+              "kc_id": "MATH-U03-KC05",
+              "chapter_id": "MATH-U03",
+              "sequence": 5,
+              "knowledge_component": "Evaluation of determinants"
+            },
+            {
+              "kc_id": "MATH-U03-KC06",
+              "chapter_id": "MATH-U03",
+              "sequence": 6,
+              "knowledge_component": "Area of a triangle using determinants"
+            },
+            {
+              "kc_id": "MATH-U03-KC07",
+              "chapter_id": "MATH-U03",
+              "sequence": 7,
+              "knowledge_component": "Adjoint of a square matrix"
+            },
+            {
+              "kc_id": "MATH-U03-KC08",
+              "chapter_id": "MATH-U03",
+              "sequence": 8,
+              "knowledge_component": "Inverse of a square matrix"
+            },
+            {
+              "kc_id": "MATH-U03-KC09",
+              "chapter_id": "MATH-U03",
+              "sequence": 9,
+              "knowledge_component": "Test of consistency of a system of linear equations"
+            },
+            {
+              "kc_id": "MATH-U03-KC10",
+              "chapter_id": "MATH-U03",
+              "sequence": 10,
+              "knowledge_component": "Solution of simultaneous linear equations in two variables using matrices"
+            },
+            {
+              "kc_id": "MATH-U03-KC11",
+              "chapter_id": "MATH-U03",
+              "sequence": 11,
+              "knowledge_component": "Solution of simultaneous linear equations in three variables using matrices"
+            }
+          ]
+        },
+        {
+          "chapter_id": "MATH-U04",
+          "subject_id": 1,
+          "unit_number": 4,
+          "chapter_name": "Permutations and Combinations",
+          "knowledge_components": [
+            {
+              "kc_id": "MATH-U04-KC01",
+              "chapter_id": "MATH-U04",
+              "sequence": 1,
+              "knowledge_component": "Fundamental principle of counting"
+            },
+            {
+              "kc_id": "MATH-U04-KC02",
+              "chapter_id": "MATH-U04",
+              "sequence": 2,
+              "knowledge_component": "Permutations"
+            },
+            {
+              "kc_id": "MATH-U04-KC03",
+              "chapter_id": "MATH-U04",
+              "sequence": 3,
+              "knowledge_component": "Combinations"
+            },
+            {
+              "kc_id": "MATH-U04-KC04",
+              "chapter_id": "MATH-U04",
+              "sequence": 4,
+              "knowledge_component": "Meaning of P(n,r)"
+            },
+            {
+              "kc_id": "MATH-U04-KC05",
+              "chapter_id": "MATH-U04",
+              "sequence": 5,
+              "knowledge_component": "Meaning of C(n,r)"
+            },
+            {
+              "kc_id": "MATH-U04-KC06",
+              "chapter_id": "MATH-U04",
+              "sequence": 6,
+              "knowledge_component": "Simple applications of permutations and combinations"
+            }
+          ]
+        },
+        {
+          "chapter_id": "MATH-U05",
+          "subject_id": 1,
+          "unit_number": 5,
+          "chapter_name": "Binomial Theorem and Its Simple Applications",
+          "knowledge_components": [
+            {
+              "kc_id": "MATH-U05-KC01",
+              "chapter_id": "MATH-U05",
+              "sequence": 1,
+              "knowledge_component": "Binomial theorem for a positive integral index"
+            },
+            {
+              "kc_id": "MATH-U05-KC02",
+              "chapter_id": "MATH-U05",
+              "sequence": 2,
+              "knowledge_component": "General term of a binomial expansion"
+            },
+            {
+              "kc_id": "MATH-U05-KC03",
+              "chapter_id": "MATH-U05",
+              "sequence": 3,
+              "knowledge_component": "Middle term of a binomial expansion"
+            },
+            {
+              "kc_id": "MATH-U05-KC04",
+              "chapter_id": "MATH-U05",
+              "sequence": 4,
+              "knowledge_component": "Simple applications of the binomial theorem"
+            }
+          ]
+        },
+        {
+          "chapter_id": "MATH-U06",
+          "subject_id": 1,
+          "unit_number": 6,
+          "chapter_name": "Sequence and Series",
+          "knowledge_components": [
+            {
+              "kc_id": "MATH-U06-KC01",
+              "chapter_id": "MATH-U06",
+              "sequence": 1,
+              "knowledge_component": "Arithmetic progressions"
+            },
+            {
+              "kc_id": "MATH-U06-KC02",
+              "chapter_id": "MATH-U06",
+              "sequence": 2,
+              "knowledge_component": "Geometric progressions"
+            },
+            {
+              "kc_id": "MATH-U06-KC03",
+              "chapter_id": "MATH-U06",
+              "sequence": 3,
+              "knowledge_component": "Insertion of arithmetic means between two numbers"
+            },
+            {
+              "kc_id": "MATH-U06-KC04",
+              "chapter_id": "MATH-U06",
+              "sequence": 4,
+              "knowledge_component": "Insertion of geometric means between two numbers"
+            },
+            {
+              "kc_id": "MATH-U06-KC05",
+              "chapter_id": "MATH-U06",
+              "sequence": 5,
+              "knowledge_component": "Relation between A.M. and G.M."
+            }
+          ]
+        },
+        {
+          "chapter_id": "MATH-U07",
+          "subject_id": 1,
+          "unit_number": 7,
+          "chapter_name": "Limit, Continuity and Differentiability",
+          "knowledge_components": [
+            {
+              "kc_id": "MATH-U07-KC01",
+              "chapter_id": "MATH-U07",
+              "sequence": 1,
+              "knowledge_component": "Real-valued functions and algebra of functions"
+            },
+            {
+              "kc_id": "MATH-U07-KC02",
+              "chapter_id": "MATH-U07",
+              "sequence": 2,
+              "knowledge_component": "Polynomial functions"
+            },
+            {
+              "kc_id": "MATH-U07-KC03",
+              "chapter_id": "MATH-U07",
+              "sequence": 3,
+              "knowledge_component": "Rational functions"
+            },
+            {
+              "kc_id": "MATH-U07-KC04",
+              "chapter_id": "MATH-U07",
+              "sequence": 4,
+              "knowledge_component": "Trigonometric functions"
+            },
+            {
+              "kc_id": "MATH-U07-KC05",
+              "chapter_id": "MATH-U07",
+              "sequence": 5,
+              "knowledge_component": "Logarithmic functions"
+            },
+            {
+              "kc_id": "MATH-U07-KC06",
+              "chapter_id": "MATH-U07",
+              "sequence": 6,
+              "knowledge_component": "Exponential functions"
+            },
+            {
+              "kc_id": "MATH-U07-KC07",
+              "chapter_id": "MATH-U07",
+              "sequence": 7,
+              "knowledge_component": "Inverse functions"
+            },
+            {
+              "kc_id": "MATH-U07-KC08",
+              "chapter_id": "MATH-U07",
+              "sequence": 8,
+              "knowledge_component": "Graphs of simple functions"
+            },
+            {
+              "kc_id": "MATH-U07-KC09",
+              "chapter_id": "MATH-U07",
+              "sequence": 9,
+              "knowledge_component": "Limits of functions"
+            },
+            {
+              "kc_id": "MATH-U07-KC10",
+              "chapter_id": "MATH-U07",
+              "sequence": 10,
+              "knowledge_component": "Continuity of functions"
+            },
+            {
+              "kc_id": "MATH-U07-KC11",
+              "chapter_id": "MATH-U07",
+              "sequence": 11,
+              "knowledge_component": "Differentiability of functions"
+            },
+            {
+              "kc_id": "MATH-U07-KC12",
+              "chapter_id": "MATH-U07",
+              "sequence": 12,
+              "knowledge_component": "Differentiation of sum and difference of two functions"
+            },
+            {
+              "kc_id": "MATH-U07-KC13",
+              "chapter_id": "MATH-U07",
+              "sequence": 13,
+              "knowledge_component": "Differentiation of product of two functions"
+            },
+            {
+              "kc_id": "MATH-U07-KC14",
+              "chapter_id": "MATH-U07",
+              "sequence": 14,
+              "knowledge_component": "Differentiation of quotient of two functions"
+            },
+            {
+              "kc_id": "MATH-U07-KC15",
+              "chapter_id": "MATH-U07",
+              "sequence": 15,
+              "knowledge_component": "Differentiation of trigonometric functions"
+            },
+            {
+              "kc_id": "MATH-U07-KC16",
+              "chapter_id": "MATH-U07",
+              "sequence": 16,
+              "knowledge_component": "Differentiation of inverse trigonometric functions"
+            },
+            {
+              "kc_id": "MATH-U07-KC17",
+              "chapter_id": "MATH-U07",
+              "sequence": 17,
+              "knowledge_component": "Differentiation of logarithmic functions"
+            },
+            {
+              "kc_id": "MATH-U07-KC18",
+              "chapter_id": "MATH-U07",
+              "sequence": 18,
+              "knowledge_component": "Differentiation of exponential functions"
+            },
+            {
+              "kc_id": "MATH-U07-KC19",
+              "chapter_id": "MATH-U07",
+              "sequence": 19,
+              "knowledge_component": "Differentiation of composite functions"
+            },
+            {
+              "kc_id": "MATH-U07-KC20",
+              "chapter_id": "MATH-U07",
+              "sequence": 20,
+              "knowledge_component": "Differentiation of implicit functions"
+            },
+            {
+              "kc_id": "MATH-U07-KC21",
+              "chapter_id": "MATH-U07",
+              "sequence": 21,
+              "knowledge_component": "Derivatives of order up to two"
+            },
+            {
+              "kc_id": "MATH-U07-KC22",
+              "chapter_id": "MATH-U07",
+              "sequence": 22,
+              "knowledge_component": "Applications of derivatives: rate of change of quantities"
+            },
+            {
+              "kc_id": "MATH-U07-KC23",
+              "chapter_id": "MATH-U07",
+              "sequence": 23,
+              "knowledge_component": "Monotonic increasing and decreasing functions"
+            },
+            {
+              "kc_id": "MATH-U07-KC24",
+              "chapter_id": "MATH-U07",
+              "sequence": 24,
+              "knowledge_component": "Maxima and minima of functions of one variable"
+            }
+          ]
+        },
+        {
+          "chapter_id": "MATH-U08",
+          "subject_id": 1,
+          "unit_number": 8,
+          "chapter_name": "Integral Calculus",
+          "knowledge_components": [
+            {
+              "kc_id": "MATH-U08-KC01",
+              "chapter_id": "MATH-U08",
+              "sequence": 1,
+              "knowledge_component": "Integral as an anti-derivative"
+            },
+            {
+              "kc_id": "MATH-U08-KC02",
+              "chapter_id": "MATH-U08",
+              "sequence": 2,
+              "knowledge_component": "Fundamental integrals involving algebraic functions"
+            },
+            {
+              "kc_id": "MATH-U08-KC03",
+              "chapter_id": "MATH-U08",
+              "sequence": 3,
+              "knowledge_component": "Fundamental integrals involving trigonometric functions"
+            },
+            {
+              "kc_id": "MATH-U08-KC04",
+              "chapter_id": "MATH-U08",
+              "sequence": 4,
+              "knowledge_component": "Fundamental integrals involving exponential functions"
+            },
+            {
+              "kc_id": "MATH-U08-KC05",
+              "chapter_id": "MATH-U08",
+              "sequence": 5,
+              "knowledge_component": "Fundamental integrals involving logarithmic functions"
+            },
+            {
+              "kc_id": "MATH-U08-KC06",
+              "chapter_id": "MATH-U08",
+              "sequence": 6,
+              "knowledge_component": "Integration by substitution"
+            },
+            {
+              "kc_id": "MATH-U08-KC07",
+              "chapter_id": "MATH-U08",
+              "sequence": 7,
+              "knowledge_component": "Integration by parts"
+            },
+            {
+              "kc_id": "MATH-U08-KC08",
+              "chapter_id": "MATH-U08",
+              "sequence": 8,
+              "knowledge_component": "Integration by partial fractions"
+            },
+            {
+              "kc_id": "MATH-U08-KC09",
+              "chapter_id": "MATH-U08",
+              "sequence": 9,
+              "knowledge_component": "Integration using trigonometric identities"
+            },
+            {
+              "kc_id": "MATH-U08-KC10",
+              "chapter_id": "MATH-U08",
+              "sequence": 10,
+              "knowledge_component": "Evaluation of simple integrals of standard types"
+            },
+            {
+              "kc_id": "MATH-U08-KC11",
+              "chapter_id": "MATH-U08",
+              "sequence": 11,
+              "knowledge_component": "Fundamental theorem of calculus"
+            },
+            {
+              "kc_id": "MATH-U08-KC12",
+              "chapter_id": "MATH-U08",
+              "sequence": 12,
+              "knowledge_component": "Properties of definite integrals"
+            },
+            {
+              "kc_id": "MATH-U08-KC13",
+              "chapter_id": "MATH-U08",
+              "sequence": 13,
+              "knowledge_component": "Evaluation of definite integrals"
+            },
+            {
+              "kc_id": "MATH-U08-KC14",
+              "chapter_id": "MATH-U08",
+              "sequence": 14,
+              "knowledge_component": "Area of regions bounded by simple curves in standard forms"
+            }
+          ]
+        },
+        {
+          "chapter_id": "MATH-U09",
+          "subject_id": 1,
+          "unit_number": 9,
+          "chapter_name": "Differential Equations",
+          "knowledge_components": [
+            {
+              "kc_id": "MATH-U09-KC01",
+              "chapter_id": "MATH-U09",
+              "sequence": 1,
+              "knowledge_component": "Ordinary differential equations, their order and degree"
+            },
+            {
+              "kc_id": "MATH-U09-KC02",
+              "chapter_id": "MATH-U09",
+              "sequence": 2,
+              "knowledge_component": "Solution of differential equations by separation of variables"
+            },
+            {
+              "kc_id": "MATH-U09-KC03",
+              "chapter_id": "MATH-U09",
+              "sequence": 3,
+              "knowledge_component": "Solution of homogeneous differential equations"
+            },
+            {
+              "kc_id": "MATH-U09-KC04",
+              "chapter_id": "MATH-U09",
+              "sequence": 4,
+              "knowledge_component": "Solution of linear differential equations of the type dy/dx + p(x)y = q(x)"
+            }
+          ]
+        },
+        {
+          "chapter_id": "MATH-U10",
+          "subject_id": 1,
+          "unit_number": 10,
+          "chapter_name": "Co-ordinate Geometry",
+          "knowledge_components": [
+            {
+              "kc_id": "MATH-U10-KC01",
+              "chapter_id": "MATH-U10",
+              "sequence": 1,
+              "knowledge_component": "Cartesian system of rectangular coordinates in a plane"
+            },
+            {
+              "kc_id": "MATH-U10-KC02",
+              "chapter_id": "MATH-U10",
+              "sequence": 2,
+              "knowledge_component": "Distance formula"
+            },
+            {
+              "kc_id": "MATH-U10-KC03",
+              "chapter_id": "MATH-U10",
+              "sequence": 3,
+              "knowledge_component": "Section formula"
+            },
+            {
+              "kc_id": "MATH-U10-KC04",
+              "chapter_id": "MATH-U10",
+              "sequence": 4,
+              "knowledge_component": "Locus and its equation"
+            },
+            {
+              "kc_id": "MATH-U10-KC05",
+              "chapter_id": "MATH-U10",
+              "sequence": 5,
+              "knowledge_component": "Slope of a line"
+            },
+            {
+              "kc_id": "MATH-U10-KC06",
+              "chapter_id": "MATH-U10",
+              "sequence": 6,
+              "knowledge_component": "Parallel and perpendicular lines"
+            },
+            {
+              "kc_id": "MATH-U10-KC07",
+              "chapter_id": "MATH-U10",
+              "sequence": 7,
+              "knowledge_component": "Intercepts of a line on the coordinate axes"
+            },
+            {
+              "kc_id": "MATH-U10-KC08",
+              "chapter_id": "MATH-U10",
+              "sequence": 8,
+              "knowledge_component": "Various forms of equations of a straight line"
+            },
+            {
+              "kc_id": "MATH-U10-KC09",
+              "chapter_id": "MATH-U10",
+              "sequence": 9,
+              "knowledge_component": "Intersection of lines"
+            },
+            {
+              "kc_id": "MATH-U10-KC10",
+              "chapter_id": "MATH-U10",
+              "sequence": 10,
+              "knowledge_component": "Angle between two lines"
+            },
+            {
+              "kc_id": "MATH-U10-KC11",
+              "chapter_id": "MATH-U10",
+              "sequence": 11,
+              "knowledge_component": "Conditions for concurrence of three lines"
+            },
+            {
+              "kc_id": "MATH-U10-KC12",
+              "chapter_id": "MATH-U10",
+              "sequence": 12,
+              "knowledge_component": "Distance of a point from a line"
+            },
+            {
+              "kc_id": "MATH-U10-KC13",
+              "chapter_id": "MATH-U10",
+              "sequence": 13,
+              "knowledge_component": "Coordinates of the centroid of a triangle"
+            },
+            {
+              "kc_id": "MATH-U10-KC14",
+              "chapter_id": "MATH-U10",
+              "sequence": 14,
+              "knowledge_component": "Coordinates of the orthocentre of a triangle"
+            },
+            {
+              "kc_id": "MATH-U10-KC15",
+              "chapter_id": "MATH-U10",
+              "sequence": 15,
+              "knowledge_component": "Coordinates of the circumcentre of a triangle"
+            },
+            {
+              "kc_id": "MATH-U10-KC16",
+              "chapter_id": "MATH-U10",
+              "sequence": 16,
+              "knowledge_component": "Standard form of the equation of a circle"
+            },
+            {
+              "kc_id": "MATH-U10-KC17",
+              "chapter_id": "MATH-U10",
+              "sequence": 17,
+              "knowledge_component": "General form of the equation of a circle, its radius and centre"
+            },
+            {
+              "kc_id": "MATH-U10-KC18",
+              "chapter_id": "MATH-U10",
+              "sequence": 18,
+              "knowledge_component": "Equation of a circle when endpoints of a diameter are given"
+            },
+            {
+              "kc_id": "MATH-U10-KC19",
+              "chapter_id": "MATH-U10",
+              "sequence": 19,
+              "knowledge_component": "Points of intersection of a line and a circle with the centre at the origin"
+            },
+            {
+              "kc_id": "MATH-U10-KC20",
+              "chapter_id": "MATH-U10",
+              "sequence": 20,
+              "knowledge_component": "Sections of conics"
+            },
+            {
+              "kc_id": "MATH-U10-KC21",
+              "chapter_id": "MATH-U10",
+              "sequence": 21,
+              "knowledge_component": "Equation of a parabola in standard form"
+            },
+            {
+              "kc_id": "MATH-U10-KC22",
+              "chapter_id": "MATH-U10",
+              "sequence": 22,
+              "knowledge_component": "Equation of an ellipse in standard form"
+            },
+            {
+              "kc_id": "MATH-U10-KC23",
+              "chapter_id": "MATH-U10",
+              "sequence": 23,
+              "knowledge_component": "Equation of a hyperbola in standard form"
+            }
+          ]
+        },
+        {
+          "chapter_id": "MATH-U11",
+          "subject_id": 1,
+          "unit_number": 11,
+          "chapter_name": "Three Dimensional Geometry",
+          "knowledge_components": [
+            {
+              "kc_id": "MATH-U11-KC01",
+              "chapter_id": "MATH-U11",
+              "sequence": 1,
+              "knowledge_component": "Coordinates of a point in space"
+            },
+            {
+              "kc_id": "MATH-U11-KC02",
+              "chapter_id": "MATH-U11",
+              "sequence": 2,
+              "knowledge_component": "Distance between two points in space"
+            },
+            {
+              "kc_id": "MATH-U11-KC03",
+              "chapter_id": "MATH-U11",
+              "sequence": 3,
+              "knowledge_component": "Section formula in three dimensions"
+            },
+            {
+              "kc_id": "MATH-U11-KC04",
+              "chapter_id": "MATH-U11",
+              "sequence": 4,
+              "knowledge_component": "Direction ratios and direction cosines"
+            },
+            {
+              "kc_id": "MATH-U11-KC05",
+              "chapter_id": "MATH-U11",
+              "sequence": 5,
+              "knowledge_component": "Angle between two intersecting lines"
+            },
+            {
+              "kc_id": "MATH-U11-KC06",
+              "chapter_id": "MATH-U11",
+              "sequence": 6,
+              "knowledge_component": "Equation of a line in space"
+            },
+            {
+              "kc_id": "MATH-U11-KC07",
+              "chapter_id": "MATH-U11",
+              "sequence": 7,
+              "knowledge_component": "Skew lines"
+            },
+            {
+              "kc_id": "MATH-U11-KC08",
+              "chapter_id": "MATH-U11",
+              "sequence": 8,
+              "knowledge_component": "Shortest distance between two lines and its equation"
+            }
+          ]
+        },
+        {
+          "chapter_id": "MATH-U12",
+          "subject_id": 1,
+          "unit_number": 12,
+          "chapter_name": "Vector Algebra",
+          "knowledge_components": [
+            {
+              "kc_id": "MATH-U12-KC01",
+              "chapter_id": "MATH-U12",
+              "sequence": 1,
+              "knowledge_component": "Vectors and scalars"
+            },
+            {
+              "kc_id": "MATH-U12-KC02",
+              "chapter_id": "MATH-U12",
+              "sequence": 2,
+              "knowledge_component": "Addition of vectors"
+            },
+            {
+              "kc_id": "MATH-U12-KC03",
+              "chapter_id": "MATH-U12",
+              "sequence": 3,
+              "knowledge_component": "Components of a vector in two dimensions"
+            },
+            {
+              "kc_id": "MATH-U12-KC04",
+              "chapter_id": "MATH-U12",
+              "sequence": 4,
+              "knowledge_component": "Components of a vector in three dimensions"
+            },
+            {
+              "kc_id": "MATH-U12-KC05",
+              "chapter_id": "MATH-U12",
+              "sequence": 5,
+              "knowledge_component": "Scalar (dot) product of vectors"
+            },
+            {
+              "kc_id": "MATH-U12-KC06",
+              "chapter_id": "MATH-U12",
+              "sequence": 6,
+              "knowledge_component": "Vector (cross) product of vectors"
+            }
+          ]
+        },
+        {
+          "chapter_id": "MATH-U13",
+          "subject_id": 1,
+          "unit_number": 13,
+          "chapter_name": "Statistics and Probability",
+          "knowledge_components": [
+            {
+              "kc_id": "MATH-U13-KC01",
+              "chapter_id": "MATH-U13",
+              "sequence": 1,
+              "knowledge_component": "Measures of dispersion"
+            },
+            {
+              "kc_id": "MATH-U13-KC02",
+              "chapter_id": "MATH-U13",
+              "sequence": 2,
+              "knowledge_component": "Mean of grouped and ungrouped data"
+            },
+            {
+              "kc_id": "MATH-U13-KC03",
+              "chapter_id": "MATH-U13",
+              "sequence": 3,
+              "knowledge_component": "Median of grouped and ungrouped data"
+            },
+            {
+              "kc_id": "MATH-U13-KC04",
+              "chapter_id": "MATH-U13",
+              "sequence": 4,
+              "knowledge_component": "Mode of grouped and ungrouped data"
+            },
+            {
+              "kc_id": "MATH-U13-KC05",
+              "chapter_id": "MATH-U13",
+              "sequence": 5,
+              "knowledge_component": "Standard deviation of grouped and ungrouped data"
+            },
+            {
+              "kc_id": "MATH-U13-KC06",
+              "chapter_id": "MATH-U13",
+              "sequence": 6,
+              "knowledge_component": "Variance of grouped and ungrouped data"
+            },
+            {
+              "kc_id": "MATH-U13-KC07",
+              "chapter_id": "MATH-U13",
+              "sequence": 7,
+              "knowledge_component": "Mean deviation of grouped and ungrouped data"
+            },
+            {
+              "kc_id": "MATH-U13-KC08",
+              "chapter_id": "MATH-U13",
+              "sequence": 8,
+              "knowledge_component": "Probability of an event"
+            },
+            {
+              "kc_id": "MATH-U13-KC09",
+              "chapter_id": "MATH-U13",
+              "sequence": 9,
+              "knowledge_component": "Addition theorem of probability"
+            },
+            {
+              "kc_id": "MATH-U13-KC10",
+              "chapter_id": "MATH-U13",
+              "sequence": 10,
+              "knowledge_component": "Multiplication theorem of probability"
+            },
+            {
+              "kc_id": "MATH-U13-KC11",
+              "chapter_id": "MATH-U13",
+              "sequence": 11,
+              "knowledge_component": "Baye's theorem"
+            },
+            {
+              "kc_id": "MATH-U13-KC12",
+              "chapter_id": "MATH-U13",
+              "sequence": 12,
+              "knowledge_component": "Probability distribution of a random variable"
+            }
+          ]
+        },
+        {
+          "chapter_id": "MATH-U14",
+          "subject_id": 1,
+          "unit_number": 14,
+          "chapter_name": "Trigonometry",
+          "knowledge_components": [
+            {
+              "kc_id": "MATH-U14-KC01",
+              "chapter_id": "MATH-U14",
+              "sequence": 1,
+              "knowledge_component": "Trigonometrical identities"
+            },
+            {
+              "kc_id": "MATH-U14-KC02",
+              "chapter_id": "MATH-U14",
+              "sequence": 2,
+              "knowledge_component": "Trigonometrical functions"
+            },
+            {
+              "kc_id": "MATH-U14-KC03",
+              "chapter_id": "MATH-U14",
+              "sequence": 3,
+              "knowledge_component": "Inverse trigonometrical functions and their properties"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject_id": 2,
+      "subject_code": "PHY",
+      "subject_name": "Physics",
+      "chapters": [
+        {
+          "chapter_id": "PHY-U01",
+          "subject_id": 2,
+          "unit_number": 1,
+          "chapter_name": "Units and Measurements",
+          "knowledge_components": [
+            {
+              "kc_id": "PHY-U01-KC01",
+              "chapter_id": "PHY-U01",
+              "sequence": 1,
+              "knowledge_component": "Units of measurement and systems of units"
+            },
+            {
+              "kc_id": "PHY-U01-KC02",
+              "chapter_id": "PHY-U01",
+              "sequence": 2,
+              "knowledge_component": "SI units"
+            },
+            {
+              "kc_id": "PHY-U01-KC03",
+              "chapter_id": "PHY-U01",
+              "sequence": 3,
+              "knowledge_component": "Fundamental and derived units"
+            },
+            {
+              "kc_id": "PHY-U01-KC04",
+              "chapter_id": "PHY-U01",
+              "sequence": 4,
+              "knowledge_component": "Least count"
+            },
+            {
+              "kc_id": "PHY-U01-KC05",
+              "chapter_id": "PHY-U01",
+              "sequence": 5,
+              "knowledge_component": "Significant figures"
+            },
+            {
+              "kc_id": "PHY-U01-KC06",
+              "chapter_id": "PHY-U01",
+              "sequence": 6,
+              "knowledge_component": "Errors in measurements"
+            },
+            {
+              "kc_id": "PHY-U01-KC07",
+              "chapter_id": "PHY-U01",
+              "sequence": 7,
+              "knowledge_component": "Dimensions of physical quantities"
+            },
+            {
+              "kc_id": "PHY-U01-KC08",
+              "chapter_id": "PHY-U01",
+              "sequence": 8,
+              "knowledge_component": "Dimensional analysis and its applications"
+            }
+          ]
+        },
+        {
+          "chapter_id": "PHY-U02",
+          "subject_id": 2,
+          "unit_number": 2,
+          "chapter_name": "Kinematics",
+          "knowledge_components": [
+            {
+              "kc_id": "PHY-U02-KC01",
+              "chapter_id": "PHY-U02",
+              "sequence": 1,
+              "knowledge_component": "Frame of reference"
+            },
+            {
+              "kc_id": "PHY-U02-KC02",
+              "chapter_id": "PHY-U02",
+              "sequence": 2,
+              "knowledge_component": "Motion in a straight line"
+            },
+            {
+              "kc_id": "PHY-U02-KC03",
+              "chapter_id": "PHY-U02",
+              "sequence": 3,
+              "knowledge_component": "Speed and velocity"
+            },
+            {
+              "kc_id": "PHY-U02-KC04",
+              "chapter_id": "PHY-U02",
+              "sequence": 4,
+              "knowledge_component": "Uniform and non-uniform motion"
+            },
+            {
+              "kc_id": "PHY-U02-KC05",
+              "chapter_id": "PHY-U02",
+              "sequence": 5,
+              "knowledge_component": "Average speed and instantaneous velocity"
+            },
+            {
+              "kc_id": "PHY-U02-KC06",
+              "chapter_id": "PHY-U02",
+              "sequence": 6,
+              "knowledge_component": "Uniformly accelerated motion"
+            },
+            {
+              "kc_id": "PHY-U02-KC07",
+              "chapter_id": "PHY-U02",
+              "sequence": 7,
+              "knowledge_component": "Velocity-time and position-time graphs"
+            },
+            {
+              "kc_id": "PHY-U02-KC08",
+              "chapter_id": "PHY-U02",
+              "sequence": 8,
+              "knowledge_component": "Relations for uniformly accelerated motion"
+            },
+            {
+              "kc_id": "PHY-U02-KC09",
+              "chapter_id": "PHY-U02",
+              "sequence": 9,
+              "knowledge_component": "Relative velocity"
+            },
+            {
+              "kc_id": "PHY-U02-KC10",
+              "chapter_id": "PHY-U02",
+              "sequence": 10,
+              "knowledge_component": "Motion in a plane"
+            },
+            {
+              "kc_id": "PHY-U02-KC11",
+              "chapter_id": "PHY-U02",
+              "sequence": 11,
+              "knowledge_component": "Projectile motion"
+            },
+            {
+              "kc_id": "PHY-U02-KC12",
+              "chapter_id": "PHY-U02",
+              "sequence": 12,
+              "knowledge_component": "Uniform circular motion"
+            }
+          ]
+        },
+        {
+          "chapter_id": "PHY-U03",
+          "subject_id": 2,
+          "unit_number": 3,
+          "chapter_name": "Laws of Motion",
+          "knowledge_components": [
+            {
+              "kc_id": "PHY-U03-KC01",
+              "chapter_id": "PHY-U03",
+              "sequence": 1,
+              "knowledge_component": "Force and inertia"
+            },
+            {
+              "kc_id": "PHY-U03-KC02",
+              "chapter_id": "PHY-U03",
+              "sequence": 2,
+              "knowledge_component": "Newton's first law of motion"
+            },
+            {
+              "kc_id": "PHY-U03-KC03",
+              "chapter_id": "PHY-U03",
+              "sequence": 3,
+              "knowledge_component": "Momentum"
+            },
+            {
+              "kc_id": "PHY-U03-KC04",
+              "chapter_id": "PHY-U03",
+              "sequence": 4,
+              "knowledge_component": "Newton's second law of motion"
+            },
+            {
+              "kc_id": "PHY-U03-KC05",
+              "chapter_id": "PHY-U03",
+              "sequence": 5,
+              "knowledge_component": "Impulse"
+            },
+            {
+              "kc_id": "PHY-U03-KC06",
+              "chapter_id": "PHY-U03",
+              "sequence": 6,
+              "knowledge_component": "Newton's third law of motion"
+            },
+            {
+              "kc_id": "PHY-U03-KC07",
+              "chapter_id": "PHY-U03",
+              "sequence": 7,
+              "knowledge_component": "Law of conservation of linear momentum and its applications"
+            },
+            {
+              "kc_id": "PHY-U03-KC08",
+              "chapter_id": "PHY-U03",
+              "sequence": 8,
+              "knowledge_component": "Equilibrium of concurrent forces"
+            },
+            {
+              "kc_id": "PHY-U03-KC09",
+              "chapter_id": "PHY-U03",
+              "sequence": 9,
+              "knowledge_component": "Static and kinetic friction"
+            },
+            {
+              "kc_id": "PHY-U03-KC10",
+              "chapter_id": "PHY-U03",
+              "sequence": 10,
+              "knowledge_component": "Laws of friction"
+            },
+            {
+              "kc_id": "PHY-U03-KC11",
+              "chapter_id": "PHY-U03",
+              "sequence": 11,
+              "knowledge_component": "Rolling friction"
+            },
+            {
+              "kc_id": "PHY-U03-KC12",
+              "chapter_id": "PHY-U03",
+              "sequence": 12,
+              "knowledge_component": "Dynamics of uniform circular motion, centripetal force"
+            },
+            {
+              "kc_id": "PHY-U03-KC13",
+              "chapter_id": "PHY-U03",
+              "sequence": 13,
+              "knowledge_component": "Vehicle on a level circular road"
+            },
+            {
+              "kc_id": "PHY-U03-KC14",
+              "chapter_id": "PHY-U03",
+              "sequence": 14,
+              "knowledge_component": "Vehicle on a banked road"
+            }
+          ]
+        },
+        {
+          "chapter_id": "PHY-U04",
+          "subject_id": 2,
+          "unit_number": 4,
+          "chapter_name": "Work, Energy and Power",
+          "knowledge_components": [
+            {
+              "kc_id": "PHY-U04-KC01",
+              "chapter_id": "PHY-U04",
+              "sequence": 1,
+              "knowledge_component": "Work done by a constant force"
+            },
+            {
+              "kc_id": "PHY-U04-KC02",
+              "chapter_id": "PHY-U04",
+              "sequence": 2,
+              "knowledge_component": "Work done by a variable force"
+            },
+            {
+              "kc_id": "PHY-U04-KC03",
+              "chapter_id": "PHY-U04",
+              "sequence": 3,
+              "knowledge_component": "Kinetic and potential energies"
+            },
+            {
+              "kc_id": "PHY-U04-KC04",
+              "chapter_id": "PHY-U04",
+              "sequence": 4,
+              "knowledge_component": "Work-energy theorem"
+            },
+            {
+              "kc_id": "PHY-U04-KC05",
+              "chapter_id": "PHY-U04",
+              "sequence": 5,
+              "knowledge_component": "Power"
+            },
+            {
+              "kc_id": "PHY-U04-KC06",
+              "chapter_id": "PHY-U04",
+              "sequence": 6,
+              "knowledge_component": "Potential energy of a spring"
+            },
+            {
+              "kc_id": "PHY-U04-KC07",
+              "chapter_id": "PHY-U04",
+              "sequence": 7,
+              "knowledge_component": "Conservation of mechanical energy"
+            },
+            {
+              "kc_id": "PHY-U04-KC08",
+              "chapter_id": "PHY-U04",
+              "sequence": 8,
+              "knowledge_component": "Conservative and non-conservative forces"
+            },
+            {
+              "kc_id": "PHY-U04-KC09",
+              "chapter_id": "PHY-U04",
+              "sequence": 9,
+              "knowledge_component": "Motion in a vertical circle"
+            },
+            {
+              "kc_id": "PHY-U04-KC10",
+              "chapter_id": "PHY-U04",
+              "sequence": 10,
+              "knowledge_component": "Elastic collisions in one and two dimensions"
+            },
+            {
+              "kc_id": "PHY-U04-KC11",
+              "chapter_id": "PHY-U04",
+              "sequence": 11,
+              "knowledge_component": "Inelastic collisions in one and two dimensions"
+            }
+          ]
+        },
+        {
+          "chapter_id": "PHY-U05",
+          "subject_id": 2,
+          "unit_number": 5,
+          "chapter_name": "Rotational Motion",
+          "knowledge_components": [
+            {
+              "kc_id": "PHY-U05-KC01",
+              "chapter_id": "PHY-U05",
+              "sequence": 1,
+              "knowledge_component": "Centre of mass of a two-particle system"
+            },
+            {
+              "kc_id": "PHY-U05-KC02",
+              "chapter_id": "PHY-U05",
+              "sequence": 2,
+              "knowledge_component": "Centre of mass of a rigid body"
+            },
+            {
+              "kc_id": "PHY-U05-KC03",
+              "chapter_id": "PHY-U05",
+              "sequence": 3,
+              "knowledge_component": "Basic concepts of rotational motion"
+            },
+            {
+              "kc_id": "PHY-U05-KC04",
+              "chapter_id": "PHY-U05",
+              "sequence": 4,
+              "knowledge_component": "Moment of a force (torque)"
+            },
+            {
+              "kc_id": "PHY-U05-KC05",
+              "chapter_id": "PHY-U05",
+              "sequence": 5,
+              "knowledge_component": "Angular momentum"
+            },
+            {
+              "kc_id": "PHY-U05-KC06",
+              "chapter_id": "PHY-U05",
+              "sequence": 6,
+              "knowledge_component": "Conservation of angular momentum and its applications"
+            },
+            {
+              "kc_id": "PHY-U05-KC07",
+              "chapter_id": "PHY-U05",
+              "sequence": 7,
+              "knowledge_component": "Moment of inertia and radius of gyration"
+            },
+            {
+              "kc_id": "PHY-U05-KC08",
+              "chapter_id": "PHY-U05",
+              "sequence": 8,
+              "knowledge_component": "Moments of inertia for simple geometrical objects"
+            },
+            {
+              "kc_id": "PHY-U05-KC09",
+              "chapter_id": "PHY-U05",
+              "sequence": 9,
+              "knowledge_component": "Parallel and perpendicular axes theorems and their applications"
+            },
+            {
+              "kc_id": "PHY-U05-KC10",
+              "chapter_id": "PHY-U05",
+              "sequence": 10,
+              "knowledge_component": "Equilibrium of rigid bodies"
+            },
+            {
+              "kc_id": "PHY-U05-KC11",
+              "chapter_id": "PHY-U05",
+              "sequence": 11,
+              "knowledge_component": "Rigid body rotation and equations of rotational motion"
+            },
+            {
+              "kc_id": "PHY-U05-KC12",
+              "chapter_id": "PHY-U05",
+              "sequence": 12,
+              "knowledge_component": "Comparison of linear and rotational motions"
+            }
+          ]
+        },
+        {
+          "chapter_id": "PHY-U06",
+          "subject_id": 2,
+          "unit_number": 6,
+          "chapter_name": "Gravitation",
+          "knowledge_components": [
+            {
+              "kc_id": "PHY-U06-KC01",
+              "chapter_id": "PHY-U06",
+              "sequence": 1,
+              "knowledge_component": "Universal law of gravitation"
+            },
+            {
+              "kc_id": "PHY-U06-KC02",
+              "chapter_id": "PHY-U06",
+              "sequence": 2,
+              "knowledge_component": "Acceleration due to gravity and its variation with altitude and depth"
+            },
+            {
+              "kc_id": "PHY-U06-KC03",
+              "chapter_id": "PHY-U06",
+              "sequence": 3,
+              "knowledge_component": "Kepler's laws of planetary motion"
+            },
+            {
+              "kc_id": "PHY-U06-KC04",
+              "chapter_id": "PHY-U06",
+              "sequence": 4,
+              "knowledge_component": "Gravitational potential energy"
+            },
+            {
+              "kc_id": "PHY-U06-KC05",
+              "chapter_id": "PHY-U06",
+              "sequence": 5,
+              "knowledge_component": "Gravitational potential"
+            },
+            {
+              "kc_id": "PHY-U06-KC06",
+              "chapter_id": "PHY-U06",
+              "sequence": 6,
+              "knowledge_component": "Escape velocity"
+            },
+            {
+              "kc_id": "PHY-U06-KC07",
+              "chapter_id": "PHY-U06",
+              "sequence": 7,
+              "knowledge_component": "Motion of a satellite and orbital velocity"
+            },
+            {
+              "kc_id": "PHY-U06-KC08",
+              "chapter_id": "PHY-U06",
+              "sequence": 8,
+              "knowledge_component": "Time period and energy of a satellite"
+            }
+          ]
+        },
+        {
+          "chapter_id": "PHY-U07",
+          "subject_id": 2,
+          "unit_number": 7,
+          "chapter_name": "Properties of Solids and Liquids",
+          "knowledge_components": [
+            {
+              "kc_id": "PHY-U07-KC01",
+              "chapter_id": "PHY-U07",
+              "sequence": 1,
+              "knowledge_component": "Elastic behaviour and stress-strain relationship"
+            },
+            {
+              "kc_id": "PHY-U07-KC02",
+              "chapter_id": "PHY-U07",
+              "sequence": 2,
+              "knowledge_component": "Hooke's law"
+            },
+            {
+              "kc_id": "PHY-U07-KC03",
+              "chapter_id": "PHY-U07",
+              "sequence": 3,
+              "knowledge_component": "Young's modulus, bulk modulus and modulus of rigidity"
+            },
+            {
+              "kc_id": "PHY-U07-KC04",
+              "chapter_id": "PHY-U07",
+              "sequence": 4,
+              "knowledge_component": "Pressure due to a fluid column"
+            },
+            {
+              "kc_id": "PHY-U07-KC05",
+              "chapter_id": "PHY-U07",
+              "sequence": 5,
+              "knowledge_component": "Pascal's law and its applications"
+            },
+            {
+              "kc_id": "PHY-U07-KC06",
+              "chapter_id": "PHY-U07",
+              "sequence": 6,
+              "knowledge_component": "Viscosity and Stoke's law"
+            },
+            {
+              "kc_id": "PHY-U07-KC07",
+              "chapter_id": "PHY-U07",
+              "sequence": 7,
+              "knowledge_component": "Terminal velocity"
+            },
+            {
+              "kc_id": "PHY-U07-KC08",
+              "chapter_id": "PHY-U07",
+              "sequence": 8,
+              "knowledge_component": "Streamline and turbulent flow, critical velocity"
+            },
+            {
+              "kc_id": "PHY-U07-KC09",
+              "chapter_id": "PHY-U07",
+              "sequence": 9,
+              "knowledge_component": "Bernoulli's principle and its applications"
+            },
+            {
+              "kc_id": "PHY-U07-KC10",
+              "chapter_id": "PHY-U07",
+              "sequence": 10,
+              "knowledge_component": "Surface energy and surface tension"
+            },
+            {
+              "kc_id": "PHY-U07-KC11",
+              "chapter_id": "PHY-U07",
+              "sequence": 11,
+              "knowledge_component": "Angle of contact"
+            },
+            {
+              "kc_id": "PHY-U07-KC12",
+              "chapter_id": "PHY-U07",
+              "sequence": 12,
+              "knowledge_component": "Excess of pressure across a curved surface"
+            },
+            {
+              "kc_id": "PHY-U07-KC13",
+              "chapter_id": "PHY-U07",
+              "sequence": 13,
+              "knowledge_component": "Application of surface tension: drops, bubbles and capillary rise"
+            },
+            {
+              "kc_id": "PHY-U07-KC14",
+              "chapter_id": "PHY-U07",
+              "sequence": 14,
+              "knowledge_component": "Heat, temperature and thermal expansion"
+            },
+            {
+              "kc_id": "PHY-U07-KC15",
+              "chapter_id": "PHY-U07",
+              "sequence": 15,
+              "knowledge_component": "Specific heat capacity and calorimetry"
+            },
+            {
+              "kc_id": "PHY-U07-KC16",
+              "chapter_id": "PHY-U07",
+              "sequence": 16,
+              "knowledge_component": "Change of state and latent heat"
+            },
+            {
+              "kc_id": "PHY-U07-KC17",
+              "chapter_id": "PHY-U07",
+              "sequence": 17,
+              "knowledge_component": "Heat transfer: conduction, convection and radiation"
+            }
+          ]
+        },
+        {
+          "chapter_id": "PHY-U08",
+          "subject_id": 2,
+          "unit_number": 8,
+          "chapter_name": "Thermodynamics",
+          "knowledge_components": [
+            {
+              "kc_id": "PHY-U08-KC01",
+              "chapter_id": "PHY-U08",
+              "sequence": 1,
+              "knowledge_component": "Thermal equilibrium and concept of temperature"
+            },
+            {
+              "kc_id": "PHY-U08-KC02",
+              "chapter_id": "PHY-U08",
+              "sequence": 2,
+              "knowledge_component": "Zeroth law of thermodynamics"
+            },
+            {
+              "kc_id": "PHY-U08-KC03",
+              "chapter_id": "PHY-U08",
+              "sequence": 3,
+              "knowledge_component": "Heat, work and internal energy"
+            },
+            {
+              "kc_id": "PHY-U08-KC04",
+              "chapter_id": "PHY-U08",
+              "sequence": 4,
+              "knowledge_component": "First law of thermodynamics"
+            },
+            {
+              "kc_id": "PHY-U08-KC05",
+              "chapter_id": "PHY-U08",
+              "sequence": 5,
+              "knowledge_component": "Isothermal and adiabatic processes"
+            },
+            {
+              "kc_id": "PHY-U08-KC06",
+              "chapter_id": "PHY-U08",
+              "sequence": 6,
+              "knowledge_component": "Second law of thermodynamics: reversible and irreversible processes"
+            }
+          ]
+        },
+        {
+          "chapter_id": "PHY-U09",
+          "subject_id": 2,
+          "unit_number": 9,
+          "chapter_name": "Kinetic Theory of Gases",
+          "knowledge_components": [
+            {
+              "kc_id": "PHY-U09-KC01",
+              "chapter_id": "PHY-U09",
+              "sequence": 1,
+              "knowledge_component": "Equation of state of a perfect gas"
+            },
+            {
+              "kc_id": "PHY-U09-KC02",
+              "chapter_id": "PHY-U09",
+              "sequence": 2,
+              "knowledge_component": "Work done on compressing a gas"
+            },
+            {
+              "kc_id": "PHY-U09-KC03",
+              "chapter_id": "PHY-U09",
+              "sequence": 3,
+              "knowledge_component": "Assumptions of kinetic theory of gases"
+            },
+            {
+              "kc_id": "PHY-U09-KC04",
+              "chapter_id": "PHY-U09",
+              "sequence": 4,
+              "knowledge_component": "Concept of pressure"
+            },
+            {
+              "kc_id": "PHY-U09-KC05",
+              "chapter_id": "PHY-U09",
+              "sequence": 5,
+              "knowledge_component": "Kinetic interpretation of temperature"
+            },
+            {
+              "kc_id": "PHY-U09-KC06",
+              "chapter_id": "PHY-U09",
+              "sequence": 6,
+              "knowledge_component": "RMS speed of gas molecules"
+            },
+            {
+              "kc_id": "PHY-U09-KC07",
+              "chapter_id": "PHY-U09",
+              "sequence": 7,
+              "knowledge_component": "Degrees of freedom"
+            },
+            {
+              "kc_id": "PHY-U09-KC08",
+              "chapter_id": "PHY-U09",
+              "sequence": 8,
+              "knowledge_component": "Law of equipartition of energy and applications to specific heat capacities of gases"
+            },
+            {
+              "kc_id": "PHY-U09-KC09",
+              "chapter_id": "PHY-U09",
+              "sequence": 9,
+              "knowledge_component": "Mean free path"
+            },
+            {
+              "kc_id": "PHY-U09-KC10",
+              "chapter_id": "PHY-U09",
+              "sequence": 10,
+              "knowledge_component": "Avogadro's number"
+            }
+          ]
+        },
+        {
+          "chapter_id": "PHY-U10",
+          "subject_id": 2,
+          "unit_number": 10,
+          "chapter_name": "Oscillations and Waves",
+          "knowledge_components": [
+            {
+              "kc_id": "PHY-U10-KC01",
+              "chapter_id": "PHY-U10",
+              "sequence": 1,
+              "knowledge_component": "Oscillations and periodic motion: time period, frequency, periodic functions"
+            },
+            {
+              "kc_id": "PHY-U10-KC02",
+              "chapter_id": "PHY-U10",
+              "sequence": 2,
+              "knowledge_component": "Displacement as a function of time"
+            },
+            {
+              "kc_id": "PHY-U10-KC03",
+              "chapter_id": "PHY-U10",
+              "sequence": 3,
+              "knowledge_component": "Simple harmonic motion (SHM) and its equation"
+            },
+            {
+              "kc_id": "PHY-U10-KC04",
+              "chapter_id": "PHY-U10",
+              "sequence": 4,
+              "knowledge_component": "Phase in SHM"
+            },
+            {
+              "kc_id": "PHY-U10-KC05",
+              "chapter_id": "PHY-U10",
+              "sequence": 5,
+              "knowledge_component": "Oscillations of a spring: restoring force and force constant"
+            },
+            {
+              "kc_id": "PHY-U10-KC06",
+              "chapter_id": "PHY-U10",
+              "sequence": 6,
+              "knowledge_component": "Energy in SHM: kinetic and potential energies"
+            },
+            {
+              "kc_id": "PHY-U10-KC07",
+              "chapter_id": "PHY-U10",
+              "sequence": 7,
+              "knowledge_component": "Simple pendulum and derivation of its time period"
+            },
+            {
+              "kc_id": "PHY-U10-KC08",
+              "chapter_id": "PHY-U10",
+              "sequence": 8,
+              "knowledge_component": "Wave motion, longitudinal and transverse waves"
+            },
+            {
+              "kc_id": "PHY-U10-KC09",
+              "chapter_id": "PHY-U10",
+              "sequence": 9,
+              "knowledge_component": "Speed of the travelling wave"
+            },
+            {
+              "kc_id": "PHY-U10-KC10",
+              "chapter_id": "PHY-U10",
+              "sequence": 10,
+              "knowledge_component": "Displacement relation for a progressive wave"
+            },
+            {
+              "kc_id": "PHY-U10-KC11",
+              "chapter_id": "PHY-U10",
+              "sequence": 11,
+              "knowledge_component": "Principle of superposition of waves"
+            },
+            {
+              "kc_id": "PHY-U10-KC12",
+              "chapter_id": "PHY-U10",
+              "sequence": 12,
+              "knowledge_component": "Reflection of waves"
+            },
+            {
+              "kc_id": "PHY-U10-KC13",
+              "chapter_id": "PHY-U10",
+              "sequence": 13,
+              "knowledge_component": "Standing waves in strings and organ pipes, fundamental mode and harmonics"
+            },
+            {
+              "kc_id": "PHY-U10-KC14",
+              "chapter_id": "PHY-U10",
+              "sequence": 14,
+              "knowledge_component": "Beats"
+            }
+          ]
+        },
+        {
+          "chapter_id": "PHY-U11",
+          "subject_id": 2,
+          "unit_number": 11,
+          "chapter_name": "Electrostatics",
+          "knowledge_components": [
+            {
+              "kc_id": "PHY-U11-KC01",
+              "chapter_id": "PHY-U11",
+              "sequence": 1,
+              "knowledge_component": "Electric charges and conservation of charge"
+            },
+            {
+              "kc_id": "PHY-U11-KC02",
+              "chapter_id": "PHY-U11",
+              "sequence": 2,
+              "knowledge_component": "Coulomb's law: forces between two point charges"
+            },
+            {
+              "kc_id": "PHY-U11-KC03",
+              "chapter_id": "PHY-U11",
+              "sequence": 3,
+              "knowledge_component": "Forces between multiple charges and superposition principle"
+            },
+            {
+              "kc_id": "PHY-U11-KC04",
+              "chapter_id": "PHY-U11",
+              "sequence": 4,
+              "knowledge_component": "Continuous charge distribution"
+            },
+            {
+              "kc_id": "PHY-U11-KC05",
+              "chapter_id": "PHY-U11",
+              "sequence": 5,
+              "knowledge_component": "Electric field due to a point charge"
+            },
+            {
+              "kc_id": "PHY-U11-KC06",
+              "chapter_id": "PHY-U11",
+              "sequence": 6,
+              "knowledge_component": "Electric field lines"
+            },
+            {
+              "kc_id": "PHY-U11-KC07",
+              "chapter_id": "PHY-U11",
+              "sequence": 7,
+              "knowledge_component": "Electric dipole and electric field due to a dipole"
+            },
+            {
+              "kc_id": "PHY-U11-KC08",
+              "chapter_id": "PHY-U11",
+              "sequence": 8,
+              "knowledge_component": "Torque on a dipole in a uniform electric field"
+            },
+            {
+              "kc_id": "PHY-U11-KC09",
+              "chapter_id": "PHY-U11",
+              "sequence": 9,
+              "knowledge_component": "Electric flux"
+            },
+            {
+              "kc_id": "PHY-U11-KC10",
+              "chapter_id": "PHY-U11",
+              "sequence": 10,
+              "knowledge_component": "Gauss's law and its applications (straight wire, plane sheet, spherical shell)"
+            },
+            {
+              "kc_id": "PHY-U11-KC11",
+              "chapter_id": "PHY-U11",
+              "sequence": 11,
+              "knowledge_component": "Electric potential and potential difference"
+            },
+            {
+              "kc_id": "PHY-U11-KC12",
+              "chapter_id": "PHY-U11",
+              "sequence": 12,
+              "knowledge_component": "Electric potential due to a point charge, dipole and system of charges"
+            },
+            {
+              "kc_id": "PHY-U11-KC13",
+              "chapter_id": "PHY-U11",
+              "sequence": 13,
+              "knowledge_component": "Equipotential surfaces"
+            },
+            {
+              "kc_id": "PHY-U11-KC14",
+              "chapter_id": "PHY-U11",
+              "sequence": 14,
+              "knowledge_component": "Electrical potential energy of a system of charges and of a dipole"
+            },
+            {
+              "kc_id": "PHY-U11-KC15",
+              "chapter_id": "PHY-U11",
+              "sequence": 15,
+              "knowledge_component": "Conductors and insulators"
+            },
+            {
+              "kc_id": "PHY-U11-KC16",
+              "chapter_id": "PHY-U11",
+              "sequence": 16,
+              "knowledge_component": "Dielectrics and electric polarization"
+            },
+            {
+              "kc_id": "PHY-U11-KC17",
+              "chapter_id": "PHY-U11",
+              "sequence": 17,
+              "knowledge_component": "Capacitors and capacitance"
+            },
+            {
+              "kc_id": "PHY-U11-KC18",
+              "chapter_id": "PHY-U11",
+              "sequence": 18,
+              "knowledge_component": "Combination of capacitors in series and parallel"
+            },
+            {
+              "kc_id": "PHY-U11-KC19",
+              "chapter_id": "PHY-U11",
+              "sequence": 19,
+              "knowledge_component": "Capacitance of a parallel plate capacitor with and without dielectric"
+            },
+            {
+              "kc_id": "PHY-U11-KC20",
+              "chapter_id": "PHY-U11",
+              "sequence": 20,
+              "knowledge_component": "Energy stored in a capacitor"
+            }
+          ]
+        },
+        {
+          "chapter_id": "PHY-U12",
+          "subject_id": 2,
+          "unit_number": 12,
+          "chapter_name": "Current Electricity",
+          "knowledge_components": [
+            {
+              "kc_id": "PHY-U12-KC01",
+              "chapter_id": "PHY-U12",
+              "sequence": 1,
+              "knowledge_component": "Electric current, drift velocity and mobility"
+            },
+            {
+              "kc_id": "PHY-U12-KC02",
+              "chapter_id": "PHY-U12",
+              "sequence": 2,
+              "knowledge_component": "Ohm's law and electrical resistance"
+            },
+            {
+              "kc_id": "PHY-U12-KC03",
+              "chapter_id": "PHY-U12",
+              "sequence": 3,
+              "knowledge_component": "I-V characteristics of Ohmic and non-ohmic conductors"
+            },
+            {
+              "kc_id": "PHY-U12-KC04",
+              "chapter_id": "PHY-U12",
+              "sequence": 4,
+              "knowledge_component": "Electrical energy and power"
+            },
+            {
+              "kc_id": "PHY-U12-KC05",
+              "chapter_id": "PHY-U12",
+              "sequence": 5,
+              "knowledge_component": "Electrical resistivity and conductivity"
+            },
+            {
+              "kc_id": "PHY-U12-KC06",
+              "chapter_id": "PHY-U12",
+              "sequence": 6,
+              "knowledge_component": "Series and parallel combinations of resistors"
+            },
+            {
+              "kc_id": "PHY-U12-KC07",
+              "chapter_id": "PHY-U12",
+              "sequence": 7,
+              "knowledge_component": "Temperature dependence of resistance"
+            },
+            {
+              "kc_id": "PHY-U12-KC08",
+              "chapter_id": "PHY-U12",
+              "sequence": 8,
+              "knowledge_component": "Internal resistance, potential difference and emf of a cell"
+            },
+            {
+              "kc_id": "PHY-U12-KC09",
+              "chapter_id": "PHY-U12",
+              "sequence": 9,
+              "knowledge_component": "Combination of cells in series and parallel"
+            },
+            {
+              "kc_id": "PHY-U12-KC10",
+              "chapter_id": "PHY-U12",
+              "sequence": 10,
+              "knowledge_component": "Kirchhoff's laws and their applications"
+            },
+            {
+              "kc_id": "PHY-U12-KC11",
+              "chapter_id": "PHY-U12",
+              "sequence": 11,
+              "knowledge_component": "Wheatstone bridge"
+            },
+            {
+              "kc_id": "PHY-U12-KC12",
+              "chapter_id": "PHY-U12",
+              "sequence": 12,
+              "knowledge_component": "Metre bridge"
+            }
+          ]
+        },
+        {
+          "chapter_id": "PHY-U13",
+          "subject_id": 2,
+          "unit_number": 13,
+          "chapter_name": "Magnetic Effects of Current and Magnetism",
+          "knowledge_components": [
+            {
+              "kc_id": "PHY-U13-KC01",
+              "chapter_id": "PHY-U13",
+              "sequence": 1,
+              "knowledge_component": "Biot-Savart law and its application to a current carrying circular loop"
+            },
+            {
+              "kc_id": "PHY-U13-KC02",
+              "chapter_id": "PHY-U13",
+              "sequence": 2,
+              "knowledge_component": "Ampere's law and its applications to a straight wire and solenoid"
+            },
+            {
+              "kc_id": "PHY-U13-KC03",
+              "chapter_id": "PHY-U13",
+              "sequence": 3,
+              "knowledge_component": "Force on a moving charge in uniform magnetic and electric fields"
+            },
+            {
+              "kc_id": "PHY-U13-KC04",
+              "chapter_id": "PHY-U13",
+              "sequence": 4,
+              "knowledge_component": "Force on a current-carrying conductor in a uniform magnetic field"
+            },
+            {
+              "kc_id": "PHY-U13-KC05",
+              "chapter_id": "PHY-U13",
+              "sequence": 5,
+              "knowledge_component": "Force between two parallel current-carrying conductors and definition of ampere"
+            },
+            {
+              "kc_id": "PHY-U13-KC06",
+              "chapter_id": "PHY-U13",
+              "sequence": 6,
+              "knowledge_component": "Torque on a current loop in a uniform magnetic field"
+            },
+            {
+              "kc_id": "PHY-U13-KC07",
+              "chapter_id": "PHY-U13",
+              "sequence": 7,
+              "knowledge_component": "Moving coil galvanometer, its sensitivity and conversion to ammeter and voltmeter"
+            },
+            {
+              "kc_id": "PHY-U13-KC08",
+              "chapter_id": "PHY-U13",
+              "sequence": 8,
+              "knowledge_component": "Current loop as a magnetic dipole and its magnetic dipole moment"
+            },
+            {
+              "kc_id": "PHY-U13-KC09",
+              "chapter_id": "PHY-U13",
+              "sequence": 9,
+              "knowledge_component": "Bar magnet as an equivalent solenoid"
+            },
+            {
+              "kc_id": "PHY-U13-KC10",
+              "chapter_id": "PHY-U13",
+              "sequence": 10,
+              "knowledge_component": "Magnetic field lines"
+            },
+            {
+              "kc_id": "PHY-U13-KC11",
+              "chapter_id": "PHY-U13",
+              "sequence": 11,
+              "knowledge_component": "Magnetic field due to a magnetic dipole along its axis and perpendicular to its axis"
+            },
+            {
+              "kc_id": "PHY-U13-KC12",
+              "chapter_id": "PHY-U13",
+              "sequence": 12,
+              "knowledge_component": "Torque on a magnetic dipole in a uniform magnetic field"
+            },
+            {
+              "kc_id": "PHY-U13-KC13",
+              "chapter_id": "PHY-U13",
+              "sequence": 13,
+              "knowledge_component": "Para-, dia- and ferromagnetic substances with examples"
+            },
+            {
+              "kc_id": "PHY-U13-KC14",
+              "chapter_id": "PHY-U13",
+              "sequence": 14,
+              "knowledge_component": "Effect of temperature on magnetic properties"
+            }
+          ]
+        },
+        {
+          "chapter_id": "PHY-U14",
+          "subject_id": 2,
+          "unit_number": 14,
+          "chapter_name": "Electromagnetic Induction and Alternating Currents",
+          "knowledge_components": [
+            {
+              "kc_id": "PHY-U14-KC01",
+              "chapter_id": "PHY-U14",
+              "sequence": 1,
+              "knowledge_component": "Faraday's law of electromagnetic induction"
+            },
+            {
+              "kc_id": "PHY-U14-KC02",
+              "chapter_id": "PHY-U14",
+              "sequence": 2,
+              "knowledge_component": "Induced emf and current"
+            },
+            {
+              "kc_id": "PHY-U14-KC03",
+              "chapter_id": "PHY-U14",
+              "sequence": 3,
+              "knowledge_component": "Lenz's law"
+            },
+            {
+              "kc_id": "PHY-U14-KC04",
+              "chapter_id": "PHY-U14",
+              "sequence": 4,
+              "knowledge_component": "Eddy currents"
+            },
+            {
+              "kc_id": "PHY-U14-KC05",
+              "chapter_id": "PHY-U14",
+              "sequence": 5,
+              "knowledge_component": "Self and mutual inductance"
+            },
+            {
+              "kc_id": "PHY-U14-KC06",
+              "chapter_id": "PHY-U14",
+              "sequence": 6,
+              "knowledge_component": "Alternating currents, peak and RMS values"
+            },
+            {
+              "kc_id": "PHY-U14-KC07",
+              "chapter_id": "PHY-U14",
+              "sequence": 7,
+              "knowledge_component": "Reactance and impedance"
+            },
+            {
+              "kc_id": "PHY-U14-KC08",
+              "chapter_id": "PHY-U14",
+              "sequence": 8,
+              "knowledge_component": "LCR series circuit and resonance"
+            },
+            {
+              "kc_id": "PHY-U14-KC09",
+              "chapter_id": "PHY-U14",
+              "sequence": 9,
+              "knowledge_component": "Power in AC circuits and wattless current"
+            },
+            {
+              "kc_id": "PHY-U14-KC10",
+              "chapter_id": "PHY-U14",
+              "sequence": 10,
+              "knowledge_component": "AC generator"
+            },
+            {
+              "kc_id": "PHY-U14-KC11",
+              "chapter_id": "PHY-U14",
+              "sequence": 11,
+              "knowledge_component": "Transformer"
+            }
+          ]
+        },
+        {
+          "chapter_id": "PHY-U15",
+          "subject_id": 2,
+          "unit_number": 15,
+          "chapter_name": "Electromagnetic Waves",
+          "knowledge_components": [
+            {
+              "kc_id": "PHY-U15-KC01",
+              "chapter_id": "PHY-U15",
+              "sequence": 1,
+              "knowledge_component": "Displacement current"
+            },
+            {
+              "kc_id": "PHY-U15-KC02",
+              "chapter_id": "PHY-U15",
+              "sequence": 2,
+              "knowledge_component": "Electromagnetic waves and their characteristics"
+            },
+            {
+              "kc_id": "PHY-U15-KC03",
+              "chapter_id": "PHY-U15",
+              "sequence": 3,
+              "knowledge_component": "Transverse nature of electromagnetic waves"
+            },
+            {
+              "kc_id": "PHY-U15-KC04",
+              "chapter_id": "PHY-U15",
+              "sequence": 4,
+              "knowledge_component": "Electromagnetic spectrum"
+            },
+            {
+              "kc_id": "PHY-U15-KC05",
+              "chapter_id": "PHY-U15",
+              "sequence": 5,
+              "knowledge_component": "Applications of electromagnetic waves"
+            }
+          ]
+        },
+        {
+          "chapter_id": "PHY-U16",
+          "subject_id": 2,
+          "unit_number": 16,
+          "chapter_name": "Optics",
+          "knowledge_components": [
+            {
+              "kc_id": "PHY-U16-KC01",
+              "chapter_id": "PHY-U16",
+              "sequence": 1,
+              "knowledge_component": "Reflection of light and spherical mirrors, mirror formula"
+            },
+            {
+              "kc_id": "PHY-U16-KC02",
+              "chapter_id": "PHY-U16",
+              "sequence": 2,
+              "knowledge_component": "Refraction of light at plane and spherical surfaces"
+            },
+            {
+              "kc_id": "PHY-U16-KC03",
+              "chapter_id": "PHY-U16",
+              "sequence": 3,
+              "knowledge_component": "Thin lens formula and lens maker formula"
+            },
+            {
+              "kc_id": "PHY-U16-KC04",
+              "chapter_id": "PHY-U16",
+              "sequence": 4,
+              "knowledge_component": "Total internal reflection and its applications"
+            },
+            {
+              "kc_id": "PHY-U16-KC05",
+              "chapter_id": "PHY-U16",
+              "sequence": 5,
+              "knowledge_component": "Magnification and power of a lens"
+            },
+            {
+              "kc_id": "PHY-U16-KC06",
+              "chapter_id": "PHY-U16",
+              "sequence": 6,
+              "knowledge_component": "Combination of thin lenses in contact"
+            },
+            {
+              "kc_id": "PHY-U16-KC07",
+              "chapter_id": "PHY-U16",
+              "sequence": 7,
+              "knowledge_component": "Refraction of light through a prism"
+            },
+            {
+              "kc_id": "PHY-U16-KC08",
+              "chapter_id": "PHY-U16",
+              "sequence": 8,
+              "knowledge_component": "Microscope and its magnifying power"
+            },
+            {
+              "kc_id": "PHY-U16-KC09",
+              "chapter_id": "PHY-U16",
+              "sequence": 9,
+              "knowledge_component": "Astronomical telescope (reflecting and refracting) and its magnifying power"
+            },
+            {
+              "kc_id": "PHY-U16-KC10",
+              "chapter_id": "PHY-U16",
+              "sequence": 10,
+              "knowledge_component": "Wavefront and Huygens' principle"
+            },
+            {
+              "kc_id": "PHY-U16-KC11",
+              "chapter_id": "PHY-U16",
+              "sequence": 11,
+              "knowledge_component": "Laws of reflection and refraction using Huygens principle"
+            },
+            {
+              "kc_id": "PHY-U16-KC12",
+              "chapter_id": "PHY-U16",
+              "sequence": 12,
+              "knowledge_component": "Interference and Young's double-slit experiment, expression for fringe width"
+            },
+            {
+              "kc_id": "PHY-U16-KC13",
+              "chapter_id": "PHY-U16",
+              "sequence": 13,
+              "knowledge_component": "Coherent sources and sustained interference of light"
+            },
+            {
+              "kc_id": "PHY-U16-KC14",
+              "chapter_id": "PHY-U16",
+              "sequence": 14,
+              "knowledge_component": "Diffraction due to a single slit, width of central maximum"
+            },
+            {
+              "kc_id": "PHY-U16-KC15",
+              "chapter_id": "PHY-U16",
+              "sequence": 15,
+              "knowledge_component": "Polarization and plane-polarized light"
+            },
+            {
+              "kc_id": "PHY-U16-KC16",
+              "chapter_id": "PHY-U16",
+              "sequence": 16,
+              "knowledge_component": "Brewster's law"
+            },
+            {
+              "kc_id": "PHY-U16-KC17",
+              "chapter_id": "PHY-U16",
+              "sequence": 17,
+              "knowledge_component": "Uses of plane-polarized light and Polaroid"
+            }
+          ]
+        },
+        {
+          "chapter_id": "PHY-U17",
+          "subject_id": 2,
+          "unit_number": 17,
+          "chapter_name": "Dual Nature of Matter and Radiation",
+          "knowledge_components": [
+            {
+              "kc_id": "PHY-U17-KC01",
+              "chapter_id": "PHY-U17",
+              "sequence": 1,
+              "knowledge_component": "Dual nature of radiation"
+            },
+            {
+              "kc_id": "PHY-U17-KC02",
+              "chapter_id": "PHY-U17",
+              "sequence": 2,
+              "knowledge_component": "Photoelectric effect and Hertz and Lenard's observations"
+            },
+            {
+              "kc_id": "PHY-U17-KC03",
+              "chapter_id": "PHY-U17",
+              "sequence": 3,
+              "knowledge_component": "Einstein's photoelectric equation and particle nature of light"
+            },
+            {
+              "kc_id": "PHY-U17-KC04",
+              "chapter_id": "PHY-U17",
+              "sequence": 4,
+              "knowledge_component": "Matter waves and wave nature of particle"
+            },
+            {
+              "kc_id": "PHY-U17-KC05",
+              "chapter_id": "PHY-U17",
+              "sequence": 5,
+              "knowledge_component": "de-Broglie relation"
+            }
+          ]
+        },
+        {
+          "chapter_id": "PHY-U18",
+          "subject_id": 2,
+          "unit_number": 18,
+          "chapter_name": "Atoms and Nuclei",
+          "knowledge_components": [
+            {
+              "kc_id": "PHY-U18-KC01",
+              "chapter_id": "PHY-U18",
+              "sequence": 1,
+              "knowledge_component": "Alpha-particle scattering experiment and Rutherford's model of atom"
+            },
+            {
+              "kc_id": "PHY-U18-KC02",
+              "chapter_id": "PHY-U18",
+              "sequence": 2,
+              "knowledge_component": "Bohr model and energy levels"
+            },
+            {
+              "kc_id": "PHY-U18-KC03",
+              "chapter_id": "PHY-U18",
+              "sequence": 3,
+              "knowledge_component": "Hydrogen spectrum"
+            },
+            {
+              "kc_id": "PHY-U18-KC04",
+              "chapter_id": "PHY-U18",
+              "sequence": 4,
+              "knowledge_component": "Composition and size of nucleus, atomic masses"
+            },
+            {
+              "kc_id": "PHY-U18-KC05",
+              "chapter_id": "PHY-U18",
+              "sequence": 5,
+              "knowledge_component": "Mass-energy relation and mass defect"
+            },
+            {
+              "kc_id": "PHY-U18-KC06",
+              "chapter_id": "PHY-U18",
+              "sequence": 6,
+              "knowledge_component": "Binding energy per nucleon and its variation with mass number"
+            },
+            {
+              "kc_id": "PHY-U18-KC07",
+              "chapter_id": "PHY-U18",
+              "sequence": 7,
+              "knowledge_component": "Nuclear fission and fusion"
+            }
+          ]
+        },
+        {
+          "chapter_id": "PHY-U19",
+          "subject_id": 2,
+          "unit_number": 19,
+          "chapter_name": "Electronic Devices",
+          "knowledge_components": [
+            {
+              "kc_id": "PHY-U19-KC01",
+              "chapter_id": "PHY-U19",
+              "sequence": 1,
+              "knowledge_component": "Semiconductors"
+            },
+            {
+              "kc_id": "PHY-U19-KC02",
+              "chapter_id": "PHY-U19",
+              "sequence": 2,
+              "knowledge_component": "Semiconductor diode: I-V characteristics in forward and reverse bias"
+            },
+            {
+              "kc_id": "PHY-U19-KC03",
+              "chapter_id": "PHY-U19",
+              "sequence": 3,
+              "knowledge_component": "Diode as a rectifier"
+            },
+            {
+              "kc_id": "PHY-U19-KC04",
+              "chapter_id": "PHY-U19",
+              "sequence": 4,
+              "knowledge_component": "I-V characteristics of LED"
+            },
+            {
+              "kc_id": "PHY-U19-KC05",
+              "chapter_id": "PHY-U19",
+              "sequence": 5,
+              "knowledge_component": "Photodiode and solar cell"
+            },
+            {
+              "kc_id": "PHY-U19-KC06",
+              "chapter_id": "PHY-U19",
+              "sequence": 6,
+              "knowledge_component": "Zener diode and its use as a voltage regulator"
+            },
+            {
+              "kc_id": "PHY-U19-KC07",
+              "chapter_id": "PHY-U19",
+              "sequence": 7,
+              "knowledge_component": "Logic gates (OR, AND, NOT, NAND and NOR)"
+            }
+          ]
+        },
+        {
+          "chapter_id": "PHY-U20",
+          "subject_id": 2,
+          "unit_number": 20,
+          "chapter_name": "Experimental Skills",
+          "knowledge_components": [
+            {
+              "kc_id": "PHY-U20-KC01",
+              "chapter_id": "PHY-U20",
+              "sequence": 1,
+              "knowledge_component": "Vernier calipers: measuring internal and external diameter and depth of a vessel"
+            },
+            {
+              "kc_id": "PHY-U20-KC02",
+              "chapter_id": "PHY-U20",
+              "sequence": 2,
+              "knowledge_component": "Screw gauge: thickness/diameter of thin sheet/wire"
+            },
+            {
+              "kc_id": "PHY-U20-KC03",
+              "chapter_id": "PHY-U20",
+              "sequence": 3,
+              "knowledge_component": "Simple pendulum: dissipation of energy by plotting square of amplitude vs time"
+            },
+            {
+              "kc_id": "PHY-U20-KC04",
+              "chapter_id": "PHY-U20",
+              "sequence": 4,
+              "knowledge_component": "Metre scale: mass of a given object by the principle of moments"
+            },
+            {
+              "kc_id": "PHY-U20-KC05",
+              "chapter_id": "PHY-U20",
+              "sequence": 5,
+              "knowledge_component": "Young's modulus of elasticity of the material of a metallic wire"
+            },
+            {
+              "kc_id": "PHY-U20-KC06",
+              "chapter_id": "PHY-U20",
+              "sequence": 6,
+              "knowledge_component": "Surface tension of water by capillary rise and effect of detergents"
+            },
+            {
+              "kc_id": "PHY-U20-KC07",
+              "chapter_id": "PHY-U20",
+              "sequence": 7,
+              "knowledge_component": "Coefficient of viscosity by measuring terminal velocity of a spherical body"
+            },
+            {
+              "kc_id": "PHY-U20-KC08",
+              "chapter_id": "PHY-U20",
+              "sequence": 8,
+              "knowledge_component": "Speed of sound in air at room temperature using a resonance tube"
+            },
+            {
+              "kc_id": "PHY-U20-KC09",
+              "chapter_id": "PHY-U20",
+              "sequence": 9,
+              "knowledge_component": "Specific heat capacity of a solid and a liquid by method of mixtures"
+            },
+            {
+              "kc_id": "PHY-U20-KC10",
+              "chapter_id": "PHY-U20",
+              "sequence": 10,
+              "knowledge_component": "Resistivity of the material of a wire using a metre bridge"
+            },
+            {
+              "kc_id": "PHY-U20-KC11",
+              "chapter_id": "PHY-U20",
+              "sequence": 11,
+              "knowledge_component": "Resistance of a wire using Ohm's law"
+            },
+            {
+              "kc_id": "PHY-U20-KC12",
+              "chapter_id": "PHY-U20",
+              "sequence": 12,
+              "knowledge_component": "Resistance and figure of merit of a galvanometer by half deflection method"
+            },
+            {
+              "kc_id": "PHY-U20-KC13",
+              "chapter_id": "PHY-U20",
+              "sequence": 13,
+              "knowledge_component": "Focal length of convex mirror, concave mirror and convex lens using the parallax method"
+            },
+            {
+              "kc_id": "PHY-U20-KC14",
+              "chapter_id": "PHY-U20",
+              "sequence": 14,
+              "knowledge_component": "Plot of angle of deviation vs angle of incidence for a triangular prism"
+            },
+            {
+              "kc_id": "PHY-U20-KC15",
+              "chapter_id": "PHY-U20",
+              "sequence": 15,
+              "knowledge_component": "Refractive index of a glass slab using a travelling microscope"
+            },
+            {
+              "kc_id": "PHY-U20-KC16",
+              "chapter_id": "PHY-U20",
+              "sequence": 16,
+              "knowledge_component": "Characteristic curves of a p-n junction diode in forward and reverse bias"
+            },
+            {
+              "kc_id": "PHY-U20-KC17",
+              "chapter_id": "PHY-U20",
+              "sequence": 17,
+              "knowledge_component": "Characteristic curves of a Zener diode and finding reverse breakdown voltage"
+            },
+            {
+              "kc_id": "PHY-U20-KC18",
+              "chapter_id": "PHY-U20",
+              "sequence": 18,
+              "knowledge_component": "Identification of diode, LED, resistor, capacitor from a mixed collection of items"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject_id": 3,
+      "subject_code": "CHEM",
+      "subject_name": "Chemistry",
+      "chapters": [
+        {
+          "chapter_id": "CHEM-U01",
+          "subject_id": 3,
+          "unit_number": 1,
+          "chapter_name": "Some Basic Concepts in Chemistry",
+          "section": "Physical Chemistry",
+          "knowledge_components": [
+            {
+              "kc_id": "CHEM-U01-KC01",
+              "chapter_id": "CHEM-U01",
+              "sequence": 1,
+              "knowledge_component": "Matter and its nature"
+            },
+            {
+              "kc_id": "CHEM-U01-KC02",
+              "chapter_id": "CHEM-U01",
+              "sequence": 2,
+              "knowledge_component": "Dalton's atomic theory"
+            },
+            {
+              "kc_id": "CHEM-U01-KC03",
+              "chapter_id": "CHEM-U01",
+              "sequence": 3,
+              "knowledge_component": "Concept of atom, molecule, element and compound"
+            },
+            {
+              "kc_id": "CHEM-U01-KC04",
+              "chapter_id": "CHEM-U01",
+              "sequence": 4,
+              "knowledge_component": "Laws of chemical combination"
+            },
+            {
+              "kc_id": "CHEM-U01-KC05",
+              "chapter_id": "CHEM-U01",
+              "sequence": 5,
+              "knowledge_component": "Atomic and molecular masses"
+            },
+            {
+              "kc_id": "CHEM-U01-KC06",
+              "chapter_id": "CHEM-U01",
+              "sequence": 6,
+              "knowledge_component": "Mole concept and molar mass"
+            },
+            {
+              "kc_id": "CHEM-U01-KC07",
+              "chapter_id": "CHEM-U01",
+              "sequence": 7,
+              "knowledge_component": "Percentage composition"
+            },
+            {
+              "kc_id": "CHEM-U01-KC08",
+              "chapter_id": "CHEM-U01",
+              "sequence": 8,
+              "knowledge_component": "Empirical and molecular formulae"
+            },
+            {
+              "kc_id": "CHEM-U01-KC09",
+              "chapter_id": "CHEM-U01",
+              "sequence": 9,
+              "knowledge_component": "Chemical equations and stoichiometry"
+            }
+          ]
+        },
+        {
+          "chapter_id": "CHEM-U02",
+          "subject_id": 3,
+          "unit_number": 2,
+          "chapter_name": "Atomic Structure",
+          "section": "Physical Chemistry",
+          "knowledge_components": [
+            {
+              "kc_id": "CHEM-U02-KC01",
+              "chapter_id": "CHEM-U02",
+              "sequence": 1,
+              "knowledge_component": "Nature of electromagnetic radiation"
+            },
+            {
+              "kc_id": "CHEM-U02-KC02",
+              "chapter_id": "CHEM-U02",
+              "sequence": 2,
+              "knowledge_component": "Photoelectric effect"
+            },
+            {
+              "kc_id": "CHEM-U02-KC03",
+              "chapter_id": "CHEM-U02",
+              "sequence": 3,
+              "knowledge_component": "Spectrum of the hydrogen atom"
+            },
+            {
+              "kc_id": "CHEM-U02-KC04",
+              "chapter_id": "CHEM-U02",
+              "sequence": 4,
+              "knowledge_component": "Bohr model of the hydrogen atom and its postulates"
+            },
+            {
+              "kc_id": "CHEM-U02-KC05",
+              "chapter_id": "CHEM-U02",
+              "sequence": 5,
+              "knowledge_component": "Derivation of energy of the electron and radii of orbits"
+            },
+            {
+              "kc_id": "CHEM-U02-KC06",
+              "chapter_id": "CHEM-U02",
+              "sequence": 6,
+              "knowledge_component": "Limitations of Bohr's model"
+            },
+            {
+              "kc_id": "CHEM-U02-KC07",
+              "chapter_id": "CHEM-U02",
+              "sequence": 7,
+              "knowledge_component": "Dual nature of matter and de Broglie's relationship"
+            },
+            {
+              "kc_id": "CHEM-U02-KC08",
+              "chapter_id": "CHEM-U02",
+              "sequence": 8,
+              "knowledge_component": "Heisenberg uncertainty principle"
+            },
+            {
+              "kc_id": "CHEM-U02-KC09",
+              "chapter_id": "CHEM-U02",
+              "sequence": 9,
+              "knowledge_component": "Quantum mechanical model of the atom and atomic orbitals as one-electron wave functions"
+            },
+            {
+              "kc_id": "CHEM-U02-KC10",
+              "chapter_id": "CHEM-U02",
+              "sequence": 10,
+              "knowledge_component": "Variation of psi and psi-squared with r for 1s and 2s orbitals"
+            },
+            {
+              "kc_id": "CHEM-U02-KC11",
+              "chapter_id": "CHEM-U02",
+              "sequence": 11,
+              "knowledge_component": "Quantum numbers (principal, angular momentum, magnetic) and their significance"
+            },
+            {
+              "kc_id": "CHEM-U02-KC12",
+              "chapter_id": "CHEM-U02",
+              "sequence": 12,
+              "knowledge_component": "Shapes of s, p and d orbitals"
+            },
+            {
+              "kc_id": "CHEM-U02-KC13",
+              "chapter_id": "CHEM-U02",
+              "sequence": 13,
+              "knowledge_component": "Electron spin and spin quantum number"
+            },
+            {
+              "kc_id": "CHEM-U02-KC14",
+              "chapter_id": "CHEM-U02",
+              "sequence": 14,
+              "knowledge_component": "Aufbau principle"
+            },
+            {
+              "kc_id": "CHEM-U02-KC15",
+              "chapter_id": "CHEM-U02",
+              "sequence": 15,
+              "knowledge_component": "Pauli's exclusion principle"
+            },
+            {
+              "kc_id": "CHEM-U02-KC16",
+              "chapter_id": "CHEM-U02",
+              "sequence": 16,
+              "knowledge_component": "Hund's rule"
+            },
+            {
+              "kc_id": "CHEM-U02-KC17",
+              "chapter_id": "CHEM-U02",
+              "sequence": 17,
+              "knowledge_component": "Electronic configuration of elements"
+            },
+            {
+              "kc_id": "CHEM-U02-KC18",
+              "chapter_id": "CHEM-U02",
+              "sequence": 18,
+              "knowledge_component": "Extra stability of half-filled and completely filled orbitals"
+            }
+          ]
+        },
+        {
+          "chapter_id": "CHEM-U03",
+          "subject_id": 3,
+          "unit_number": 3,
+          "chapter_name": "Chemical Bonding and Molecular Structure",
+          "section": "Physical Chemistry",
+          "knowledge_components": [
+            {
+              "kc_id": "CHEM-U03-KC01",
+              "chapter_id": "CHEM-U03",
+              "sequence": 1,
+              "knowledge_component": "Kossel-Lewis approach to chemical bond formation"
+            },
+            {
+              "kc_id": "CHEM-U03-KC02",
+              "chapter_id": "CHEM-U03",
+              "sequence": 2,
+              "knowledge_component": "Concept of ionic and covalent bonds"
+            },
+            {
+              "kc_id": "CHEM-U03-KC03",
+              "chapter_id": "CHEM-U03",
+              "sequence": 3,
+              "knowledge_component": "Formation of ionic bonds and factors affecting it"
+            },
+            {
+              "kc_id": "CHEM-U03-KC04",
+              "chapter_id": "CHEM-U03",
+              "sequence": 4,
+              "knowledge_component": "Calculation of lattice enthalpy"
+            },
+            {
+              "kc_id": "CHEM-U03-KC05",
+              "chapter_id": "CHEM-U03",
+              "sequence": 5,
+              "knowledge_component": "Electronegativity and Fajan's rule"
+            },
+            {
+              "kc_id": "CHEM-U03-KC06",
+              "chapter_id": "CHEM-U03",
+              "sequence": 6,
+              "knowledge_component": "Dipole moment"
+            },
+            {
+              "kc_id": "CHEM-U03-KC07",
+              "chapter_id": "CHEM-U03",
+              "sequence": 7,
+              "knowledge_component": "VSEPR theory and shapes of simple molecules"
+            },
+            {
+              "kc_id": "CHEM-U03-KC08",
+              "chapter_id": "CHEM-U03",
+              "sequence": 8,
+              "knowledge_component": "Valence bond theory and its important features"
+            },
+            {
+              "kc_id": "CHEM-U03-KC09",
+              "chapter_id": "CHEM-U03",
+              "sequence": 9,
+              "knowledge_component": "Hybridization involving s, p and d orbitals"
+            },
+            {
+              "kc_id": "CHEM-U03-KC10",
+              "chapter_id": "CHEM-U03",
+              "sequence": 10,
+              "knowledge_component": "Resonance"
+            },
+            {
+              "kc_id": "CHEM-U03-KC11",
+              "chapter_id": "CHEM-U03",
+              "sequence": 11,
+              "knowledge_component": "Molecular orbital theory, LCAOs and types of molecular orbitals"
+            },
+            {
+              "kc_id": "CHEM-U03-KC12",
+              "chapter_id": "CHEM-U03",
+              "sequence": 12,
+              "knowledge_component": "Sigma and pi bonds"
+            },
+            {
+              "kc_id": "CHEM-U03-KC13",
+              "chapter_id": "CHEM-U03",
+              "sequence": 13,
+              "knowledge_component": "Molecular orbital electronic configurations of homonuclear diatomic molecules"
+            },
+            {
+              "kc_id": "CHEM-U03-KC14",
+              "chapter_id": "CHEM-U03",
+              "sequence": 14,
+              "knowledge_component": "Bond order, bond length and bond energy"
+            },
+            {
+              "kc_id": "CHEM-U03-KC15",
+              "chapter_id": "CHEM-U03",
+              "sequence": 15,
+              "knowledge_component": "Metallic bonding"
+            },
+            {
+              "kc_id": "CHEM-U03-KC16",
+              "chapter_id": "CHEM-U03",
+              "sequence": 16,
+              "knowledge_component": "Hydrogen bonding and its applications"
+            }
+          ]
+        },
+        {
+          "chapter_id": "CHEM-U04",
+          "subject_id": 3,
+          "unit_number": 4,
+          "chapter_name": "Chemical Thermodynamics",
+          "section": "Physical Chemistry",
+          "knowledge_components": [
+            {
+              "kc_id": "CHEM-U04-KC01",
+              "chapter_id": "CHEM-U04",
+              "sequence": 1,
+              "knowledge_component": "System and surroundings"
+            },
+            {
+              "kc_id": "CHEM-U04-KC02",
+              "chapter_id": "CHEM-U04",
+              "sequence": 2,
+              "knowledge_component": "Extensive and intensive properties"
+            },
+            {
+              "kc_id": "CHEM-U04-KC03",
+              "chapter_id": "CHEM-U04",
+              "sequence": 3,
+              "knowledge_component": "State functions and types of processes"
+            },
+            {
+              "kc_id": "CHEM-U04-KC04",
+              "chapter_id": "CHEM-U04",
+              "sequence": 4,
+              "knowledge_component": "Entropy"
+            },
+            {
+              "kc_id": "CHEM-U04-KC05",
+              "chapter_id": "CHEM-U04",
+              "sequence": 5,
+              "knowledge_component": "First law of thermodynamics: work, heat, internal energy and enthalpy"
+            },
+            {
+              "kc_id": "CHEM-U04-KC06",
+              "chapter_id": "CHEM-U04",
+              "sequence": 6,
+              "knowledge_component": "Heat capacity and molar heat capacity"
+            },
+            {
+              "kc_id": "CHEM-U04-KC07",
+              "chapter_id": "CHEM-U04",
+              "sequence": 7,
+              "knowledge_component": "Hess's law of constant heat summation"
+            },
+            {
+              "kc_id": "CHEM-U04-KC08",
+              "chapter_id": "CHEM-U04",
+              "sequence": 8,
+              "knowledge_component": "Enthalpies of bond dissociation, combustion, formation, atomization, sublimation, phase transition, hydration, ionization and solution"
+            },
+            {
+              "kc_id": "CHEM-U04-KC09",
+              "chapter_id": "CHEM-U04",
+              "sequence": 9,
+              "knowledge_component": "Second law of thermodynamics and spontaneity of processes"
+            },
+            {
+              "kc_id": "CHEM-U04-KC10",
+              "chapter_id": "CHEM-U04",
+              "sequence": 10,
+              "knowledge_component": "delta-S of universe and delta-G of system as criteria for spontaneity"
+            },
+            {
+              "kc_id": "CHEM-U04-KC11",
+              "chapter_id": "CHEM-U04",
+              "sequence": 11,
+              "knowledge_component": "Standard Gibbs energy change and equilibrium constant"
+            }
+          ]
+        },
+        {
+          "chapter_id": "CHEM-U05",
+          "subject_id": 3,
+          "unit_number": 5,
+          "chapter_name": "Solutions",
+          "section": "Physical Chemistry",
+          "knowledge_components": [
+            {
+              "kc_id": "CHEM-U05-KC01",
+              "chapter_id": "CHEM-U05",
+              "sequence": 1,
+              "knowledge_component": "Methods of expressing concentration: molality, molarity, mole fraction, percentage"
+            },
+            {
+              "kc_id": "CHEM-U05-KC02",
+              "chapter_id": "CHEM-U05",
+              "sequence": 2,
+              "knowledge_component": "Vapour pressure of solutions and Raoult's law"
+            },
+            {
+              "kc_id": "CHEM-U05-KC03",
+              "chapter_id": "CHEM-U05",
+              "sequence": 3,
+              "knowledge_component": "Ideal and non-ideal solutions"
+            },
+            {
+              "kc_id": "CHEM-U05-KC04",
+              "chapter_id": "CHEM-U05",
+              "sequence": 4,
+              "knowledge_component": "Vapour pressure-composition plots for ideal and non-ideal solutions"
+            },
+            {
+              "kc_id": "CHEM-U05-KC05",
+              "chapter_id": "CHEM-U05",
+              "sequence": 5,
+              "knowledge_component": "Relative lowering of vapour pressure"
+            },
+            {
+              "kc_id": "CHEM-U05-KC06",
+              "chapter_id": "CHEM-U05",
+              "sequence": 6,
+              "knowledge_component": "Depression of freezing point"
+            },
+            {
+              "kc_id": "CHEM-U05-KC07",
+              "chapter_id": "CHEM-U05",
+              "sequence": 7,
+              "knowledge_component": "Elevation of boiling point"
+            },
+            {
+              "kc_id": "CHEM-U05-KC08",
+              "chapter_id": "CHEM-U05",
+              "sequence": 8,
+              "knowledge_component": "Osmotic pressure"
+            },
+            {
+              "kc_id": "CHEM-U05-KC09",
+              "chapter_id": "CHEM-U05",
+              "sequence": 9,
+              "knowledge_component": "Determination of molecular mass using colligative properties"
+            },
+            {
+              "kc_id": "CHEM-U05-KC10",
+              "chapter_id": "CHEM-U05",
+              "sequence": 10,
+              "knowledge_component": "Abnormal molar mass and van't Hoff factor"
+            }
+          ]
+        },
+        {
+          "chapter_id": "CHEM-U06",
+          "subject_id": 3,
+          "unit_number": 6,
+          "chapter_name": "Equilibrium",
+          "section": "Physical Chemistry",
+          "knowledge_components": [
+            {
+              "kc_id": "CHEM-U06-KC01",
+              "chapter_id": "CHEM-U06",
+              "sequence": 1,
+              "knowledge_component": "Meaning of equilibrium and concept of dynamic equilibrium"
+            },
+            {
+              "kc_id": "CHEM-U06-KC02",
+              "chapter_id": "CHEM-U06",
+              "sequence": 2,
+              "knowledge_component": "Equilibria involving physical processes (solid-liquid, liquid-gas, gas-gas, solid-gas)"
+            },
+            {
+              "kc_id": "CHEM-U06-KC03",
+              "chapter_id": "CHEM-U06",
+              "sequence": 3,
+              "knowledge_component": "Henry's law"
+            },
+            {
+              "kc_id": "CHEM-U06-KC04",
+              "chapter_id": "CHEM-U06",
+              "sequence": 4,
+              "knowledge_component": "Law of chemical equilibrium"
+            },
+            {
+              "kc_id": "CHEM-U06-KC05",
+              "chapter_id": "CHEM-U06",
+              "sequence": 5,
+              "knowledge_component": "Equilibrium constants (Kp and Kc) and their significance"
+            },
+            {
+              "kc_id": "CHEM-U06-KC06",
+              "chapter_id": "CHEM-U06",
+              "sequence": 6,
+              "knowledge_component": "Significance of delta-G and delta-G-standard in chemical equilibrium"
+            },
+            {
+              "kc_id": "CHEM-U06-KC07",
+              "chapter_id": "CHEM-U06",
+              "sequence": 7,
+              "knowledge_component": "Factors affecting equilibrium (concentration, pressure, temperature, catalyst)"
+            },
+            {
+              "kc_id": "CHEM-U06-KC08",
+              "chapter_id": "CHEM-U06",
+              "sequence": 8,
+              "knowledge_component": "Le Chatelier's principle"
+            },
+            {
+              "kc_id": "CHEM-U06-KC09",
+              "chapter_id": "CHEM-U06",
+              "sequence": 9,
+              "knowledge_component": "Weak and strong electrolytes and ionization of electrolytes"
+            },
+            {
+              "kc_id": "CHEM-U06-KC10",
+              "chapter_id": "CHEM-U06",
+              "sequence": 10,
+              "knowledge_component": "Concepts of acids and bases (Arrhenius, Bronsted-Lowry, Lewis)"
+            },
+            {
+              "kc_id": "CHEM-U06-KC11",
+              "chapter_id": "CHEM-U06",
+              "sequence": 11,
+              "knowledge_component": "Acid-base equilibria and ionization constants"
+            },
+            {
+              "kc_id": "CHEM-U06-KC12",
+              "chapter_id": "CHEM-U06",
+              "sequence": 12,
+              "knowledge_component": "Ionization of water and pH scale"
+            },
+            {
+              "kc_id": "CHEM-U06-KC13",
+              "chapter_id": "CHEM-U06",
+              "sequence": 13,
+              "knowledge_component": "Common ion effect"
+            },
+            {
+              "kc_id": "CHEM-U06-KC14",
+              "chapter_id": "CHEM-U06",
+              "sequence": 14,
+              "knowledge_component": "Hydrolysis of salts and pH of their solutions"
+            },
+            {
+              "kc_id": "CHEM-U06-KC15",
+              "chapter_id": "CHEM-U06",
+              "sequence": 15,
+              "knowledge_component": "Solubility of sparingly soluble salts and solubility products"
+            },
+            {
+              "kc_id": "CHEM-U06-KC16",
+              "chapter_id": "CHEM-U06",
+              "sequence": 16,
+              "knowledge_component": "Buffer solutions"
+            }
+          ]
+        },
+        {
+          "chapter_id": "CHEM-U07",
+          "subject_id": 3,
+          "unit_number": 7,
+          "chapter_name": "Redox Reactions and Electrochemistry",
+          "section": "Physical Chemistry",
+          "knowledge_components": [
+            {
+              "kc_id": "CHEM-U07-KC01",
+              "chapter_id": "CHEM-U07",
+              "sequence": 1,
+              "knowledge_component": "Electronic concepts of oxidation and reduction"
+            },
+            {
+              "kc_id": "CHEM-U07-KC02",
+              "chapter_id": "CHEM-U07",
+              "sequence": 2,
+              "knowledge_component": "Oxidation number and rules for assigning it"
+            },
+            {
+              "kc_id": "CHEM-U07-KC03",
+              "chapter_id": "CHEM-U07",
+              "sequence": 3,
+              "knowledge_component": "Balancing of redox reactions"
+            },
+            {
+              "kc_id": "CHEM-U07-KC04",
+              "chapter_id": "CHEM-U07",
+              "sequence": 4,
+              "knowledge_component": "Electrolytic and metallic conduction"
+            },
+            {
+              "kc_id": "CHEM-U07-KC05",
+              "chapter_id": "CHEM-U07",
+              "sequence": 5,
+              "knowledge_component": "Conductance in electrolytic solutions and molar conductivities"
+            },
+            {
+              "kc_id": "CHEM-U07-KC06",
+              "chapter_id": "CHEM-U07",
+              "sequence": 6,
+              "knowledge_component": "Variation of molar conductivity with concentration"
+            },
+            {
+              "kc_id": "CHEM-U07-KC07",
+              "chapter_id": "CHEM-U07",
+              "sequence": 7,
+              "knowledge_component": "Kohlrausch's law and its applications"
+            },
+            {
+              "kc_id": "CHEM-U07-KC08",
+              "chapter_id": "CHEM-U07",
+              "sequence": 8,
+              "knowledge_component": "Electrolytic and galvanic cells and types of electrodes"
+            },
+            {
+              "kc_id": "CHEM-U07-KC09",
+              "chapter_id": "CHEM-U07",
+              "sequence": 9,
+              "knowledge_component": "Electrode potentials and standard electrode potential"
+            },
+            {
+              "kc_id": "CHEM-U07-KC10",
+              "chapter_id": "CHEM-U07",
+              "sequence": 10,
+              "knowledge_component": "Half-cell and cell reactions, emf of a galvanic cell and its measurement"
+            },
+            {
+              "kc_id": "CHEM-U07-KC11",
+              "chapter_id": "CHEM-U07",
+              "sequence": 11,
+              "knowledge_component": "Nernst equation and its applications"
+            },
+            {
+              "kc_id": "CHEM-U07-KC12",
+              "chapter_id": "CHEM-U07",
+              "sequence": 12,
+              "knowledge_component": "Relationship between cell potential and Gibbs' energy change"
+            },
+            {
+              "kc_id": "CHEM-U07-KC13",
+              "chapter_id": "CHEM-U07",
+              "sequence": 13,
+              "knowledge_component": "Dry cell and lead accumulator"
+            },
+            {
+              "kc_id": "CHEM-U07-KC14",
+              "chapter_id": "CHEM-U07",
+              "sequence": 14,
+              "knowledge_component": "Fuel cells"
+            }
+          ]
+        },
+        {
+          "chapter_id": "CHEM-U08",
+          "subject_id": 3,
+          "unit_number": 8,
+          "chapter_name": "Chemical Kinetics",
+          "section": "Physical Chemistry",
+          "knowledge_components": [
+            {
+              "kc_id": "CHEM-U08-KC01",
+              "chapter_id": "CHEM-U08",
+              "sequence": 1,
+              "knowledge_component": "Rate of a chemical reaction"
+            },
+            {
+              "kc_id": "CHEM-U08-KC02",
+              "chapter_id": "CHEM-U08",
+              "sequence": 2,
+              "knowledge_component": "Factors affecting rate: concentration, temperature, pressure and catalyst"
+            },
+            {
+              "kc_id": "CHEM-U08-KC03",
+              "chapter_id": "CHEM-U08",
+              "sequence": 3,
+              "knowledge_component": "Elementary and complex reactions"
+            },
+            {
+              "kc_id": "CHEM-U08-KC04",
+              "chapter_id": "CHEM-U08",
+              "sequence": 4,
+              "knowledge_component": "Order and molecularity of reactions"
+            },
+            {
+              "kc_id": "CHEM-U08-KC05",
+              "chapter_id": "CHEM-U08",
+              "sequence": 5,
+              "knowledge_component": "Rate law, rate constant and its units"
+            },
+            {
+              "kc_id": "CHEM-U08-KC06",
+              "chapter_id": "CHEM-U08",
+              "sequence": 6,
+              "knowledge_component": "Differential and integral forms of zero and first-order reactions"
+            },
+            {
+              "kc_id": "CHEM-U08-KC07",
+              "chapter_id": "CHEM-U08",
+              "sequence": 7,
+              "knowledge_component": "Characteristics and half-lives of zero and first-order reactions"
+            },
+            {
+              "kc_id": "CHEM-U08-KC08",
+              "chapter_id": "CHEM-U08",
+              "sequence": 8,
+              "knowledge_component": "Effect of temperature on rate and Arrhenius theory"
+            },
+            {
+              "kc_id": "CHEM-U08-KC09",
+              "chapter_id": "CHEM-U08",
+              "sequence": 9,
+              "knowledge_component": "Activation energy and its calculation"
+            },
+            {
+              "kc_id": "CHEM-U08-KC10",
+              "chapter_id": "CHEM-U08",
+              "sequence": 10,
+              "knowledge_component": "Collision theory of bimolecular gaseous reactions (no derivation)"
+            }
+          ]
+        },
+        {
+          "chapter_id": "CHEM-U09",
+          "subject_id": 3,
+          "unit_number": 9,
+          "chapter_name": "Classification of Elements and Periodicity in Properties",
+          "section": "Inorganic Chemistry",
+          "knowledge_components": [
+            {
+              "kc_id": "CHEM-U09-KC01",
+              "chapter_id": "CHEM-U09",
+              "sequence": 1,
+              "knowledge_component": "Modern periodic law and present form of the periodic table"
+            },
+            {
+              "kc_id": "CHEM-U09-KC02",
+              "chapter_id": "CHEM-U09",
+              "sequence": 2,
+              "knowledge_component": "s, p, d and f block elements"
+            },
+            {
+              "kc_id": "CHEM-U09-KC03",
+              "chapter_id": "CHEM-U09",
+              "sequence": 3,
+              "knowledge_component": "Periodic trends in atomic and ionic radii"
+            },
+            {
+              "kc_id": "CHEM-U09-KC04",
+              "chapter_id": "CHEM-U09",
+              "sequence": 4,
+              "knowledge_component": "Periodic trends in ionization enthalpy"
+            },
+            {
+              "kc_id": "CHEM-U09-KC05",
+              "chapter_id": "CHEM-U09",
+              "sequence": 5,
+              "knowledge_component": "Periodic trends in electron gain enthalpy"
+            },
+            {
+              "kc_id": "CHEM-U09-KC06",
+              "chapter_id": "CHEM-U09",
+              "sequence": 6,
+              "knowledge_component": "Periodic trends in valence, oxidation states and chemical reactivity"
+            }
+          ]
+        },
+        {
+          "chapter_id": "CHEM-U10",
+          "subject_id": 3,
+          "unit_number": 10,
+          "chapter_name": "p-Block Elements",
+          "section": "Inorganic Chemistry",
+          "knowledge_components": [
+            {
+              "kc_id": "CHEM-U10-KC01",
+              "chapter_id": "CHEM-U10",
+              "sequence": 1,
+              "knowledge_component": "Group 13 to Group 18 elements: general introduction"
+            },
+            {
+              "kc_id": "CHEM-U10-KC02",
+              "chapter_id": "CHEM-U10",
+              "sequence": 2,
+              "knowledge_component": "Electronic configuration and general trends in physical and chemical properties across periods and down groups"
+            },
+            {
+              "kc_id": "CHEM-U10-KC03",
+              "chapter_id": "CHEM-U10",
+              "sequence": 3,
+              "knowledge_component": "Unique behaviour of the first element in each group"
+            }
+          ]
+        },
+        {
+          "chapter_id": "CHEM-U11",
+          "subject_id": 3,
+          "unit_number": 11,
+          "chapter_name": "d- and f-Block Elements",
+          "section": "Inorganic Chemistry",
+          "knowledge_components": [
+            {
+              "kc_id": "CHEM-U11-KC01",
+              "chapter_id": "CHEM-U11",
+              "sequence": 1,
+              "knowledge_component": "Transition elements: general introduction, electronic configuration, occurrence and characteristics"
+            },
+            {
+              "kc_id": "CHEM-U11-KC02",
+              "chapter_id": "CHEM-U11",
+              "sequence": 2,
+              "knowledge_component": "General trends in properties of first-row transition elements (physical properties, ionization enthalpy, oxidation states, atomic radii)"
+            },
+            {
+              "kc_id": "CHEM-U11-KC03",
+              "chapter_id": "CHEM-U11",
+              "sequence": 3,
+              "knowledge_component": "Colour, catalytic behaviour and magnetic properties of transition elements"
+            },
+            {
+              "kc_id": "CHEM-U11-KC04",
+              "chapter_id": "CHEM-U11",
+              "sequence": 4,
+              "knowledge_component": "Complex formation, interstitial compounds and alloy formation"
+            },
+            {
+              "kc_id": "CHEM-U11-KC05",
+              "chapter_id": "CHEM-U11",
+              "sequence": 5,
+              "knowledge_component": "Preparation, properties and uses of K2Cr2O7 and KMnO4"
+            },
+            {
+              "kc_id": "CHEM-U11-KC06",
+              "chapter_id": "CHEM-U11",
+              "sequence": 6,
+              "knowledge_component": "Lanthanoids: electronic configuration, oxidation states and lanthanoid contraction"
+            },
+            {
+              "kc_id": "CHEM-U11-KC07",
+              "chapter_id": "CHEM-U11",
+              "sequence": 7,
+              "knowledge_component": "Actinoids: electronic configuration and oxidation states"
+            }
+          ]
+        },
+        {
+          "chapter_id": "CHEM-U12",
+          "subject_id": 3,
+          "unit_number": 12,
+          "chapter_name": "Coordination Compounds",
+          "section": "Inorganic Chemistry",
+          "knowledge_components": [
+            {
+              "kc_id": "CHEM-U12-KC01",
+              "chapter_id": "CHEM-U12",
+              "sequence": 1,
+              "knowledge_component": "Introduction to coordination compounds and Werner's theory"
+            },
+            {
+              "kc_id": "CHEM-U12-KC02",
+              "chapter_id": "CHEM-U12",
+              "sequence": 2,
+              "knowledge_component": "Ligands, coordination number, denticity and chelation"
+            },
+            {
+              "kc_id": "CHEM-U12-KC03",
+              "chapter_id": "CHEM-U12",
+              "sequence": 3,
+              "knowledge_component": "IUPAC nomenclature of mononuclear coordination compounds"
+            },
+            {
+              "kc_id": "CHEM-U12-KC04",
+              "chapter_id": "CHEM-U12",
+              "sequence": 4,
+              "knowledge_component": "Isomerism in coordination compounds"
+            },
+            {
+              "kc_id": "CHEM-U12-KC05",
+              "chapter_id": "CHEM-U12",
+              "sequence": 5,
+              "knowledge_component": "Bonding: valence bond approach"
+            },
+            {
+              "kc_id": "CHEM-U12-KC06",
+              "chapter_id": "CHEM-U12",
+              "sequence": 6,
+              "knowledge_component": "Basic ideas of crystal field theory, colour and magnetic properties"
+            },
+            {
+              "kc_id": "CHEM-U12-KC07",
+              "chapter_id": "CHEM-U12",
+              "sequence": 7,
+              "knowledge_component": "Importance of coordination compounds (qualitative analysis, extraction of metals, biological systems)"
+            }
+          ]
+        },
+        {
+          "chapter_id": "CHEM-U13",
+          "subject_id": 3,
+          "unit_number": 13,
+          "chapter_name": "Purification and Characterisation of Organic Compounds",
+          "section": "Organic Chemistry",
+          "knowledge_components": [
+            {
+              "kc_id": "CHEM-U13-KC01",
+              "chapter_id": "CHEM-U13",
+              "sequence": 1,
+              "knowledge_component": "Purification by crystallization and sublimation"
+            },
+            {
+              "kc_id": "CHEM-U13-KC02",
+              "chapter_id": "CHEM-U13",
+              "sequence": 2,
+              "knowledge_component": "Purification by distillation, differential extraction and chromatography"
+            },
+            {
+              "kc_id": "CHEM-U13-KC03",
+              "chapter_id": "CHEM-U13",
+              "sequence": 3,
+              "knowledge_component": "Qualitative analysis: detection of nitrogen, sulphur, phosphorus and halogens"
+            },
+            {
+              "kc_id": "CHEM-U13-KC04",
+              "chapter_id": "CHEM-U13",
+              "sequence": 4,
+              "knowledge_component": "Quantitative analysis: estimation of carbon, hydrogen, nitrogen, halogens, sulphur and phosphorus"
+            },
+            {
+              "kc_id": "CHEM-U13-KC05",
+              "chapter_id": "CHEM-U13",
+              "sequence": 5,
+              "knowledge_component": "Calculations of empirical and molecular formulae"
+            },
+            {
+              "kc_id": "CHEM-U13-KC06",
+              "chapter_id": "CHEM-U13",
+              "sequence": 6,
+              "knowledge_component": "Numerical problems in organic quantitative analysis"
+            }
+          ]
+        },
+        {
+          "chapter_id": "CHEM-U14",
+          "subject_id": 3,
+          "unit_number": 14,
+          "chapter_name": "Some Basic Principles of Organic Chemistry",
+          "section": "Organic Chemistry",
+          "knowledge_components": [
+            {
+              "kc_id": "CHEM-U14-KC01",
+              "chapter_id": "CHEM-U14",
+              "sequence": 1,
+              "knowledge_component": "Tetravalency of carbon and shapes of simple molecules (hybridization s and p)"
+            },
+            {
+              "kc_id": "CHEM-U14-KC02",
+              "chapter_id": "CHEM-U14",
+              "sequence": 2,
+              "knowledge_component": "Classification of organic compounds based on functional groups"
+            },
+            {
+              "kc_id": "CHEM-U14-KC03",
+              "chapter_id": "CHEM-U14",
+              "sequence": 3,
+              "knowledge_component": "Homologous series"
+            },
+            {
+              "kc_id": "CHEM-U14-KC04",
+              "chapter_id": "CHEM-U14",
+              "sequence": 4,
+              "knowledge_component": "Isomerism: structural and stereoisomerism"
+            },
+            {
+              "kc_id": "CHEM-U14-KC05",
+              "chapter_id": "CHEM-U14",
+              "sequence": 5,
+              "knowledge_component": "Nomenclature (trivial and IUPAC)"
+            },
+            {
+              "kc_id": "CHEM-U14-KC06",
+              "chapter_id": "CHEM-U14",
+              "sequence": 6,
+              "knowledge_component": "Covalent bond fission: homolytic and heterolytic"
+            },
+            {
+              "kc_id": "CHEM-U14-KC07",
+              "chapter_id": "CHEM-U14",
+              "sequence": 7,
+              "knowledge_component": "Free radicals, carbocations and carbanions and their stability"
+            },
+            {
+              "kc_id": "CHEM-U14-KC08",
+              "chapter_id": "CHEM-U14",
+              "sequence": 8,
+              "knowledge_component": "Electrophiles and nucleophiles"
+            },
+            {
+              "kc_id": "CHEM-U14-KC09",
+              "chapter_id": "CHEM-U14",
+              "sequence": 9,
+              "knowledge_component": "Inductive effect"
+            },
+            {
+              "kc_id": "CHEM-U14-KC10",
+              "chapter_id": "CHEM-U14",
+              "sequence": 10,
+              "knowledge_component": "Electromeric effect"
+            },
+            {
+              "kc_id": "CHEM-U14-KC11",
+              "chapter_id": "CHEM-U14",
+              "sequence": 11,
+              "knowledge_component": "Resonance and hyperconjugation"
+            },
+            {
+              "kc_id": "CHEM-U14-KC12",
+              "chapter_id": "CHEM-U14",
+              "sequence": 12,
+              "knowledge_component": "Common types of organic reactions: substitution, addition, elimination and rearrangement"
+            }
+          ]
+        },
+        {
+          "chapter_id": "CHEM-U15",
+          "subject_id": 3,
+          "unit_number": 15,
+          "chapter_name": "Hydrocarbons",
+          "section": "Organic Chemistry",
+          "knowledge_components": [
+            {
+              "kc_id": "CHEM-U15-KC01",
+              "chapter_id": "CHEM-U15",
+              "sequence": 1,
+              "knowledge_component": "Classification, isomerism, IUPAC nomenclature, general methods of preparation, properties and reactions"
+            },
+            {
+              "kc_id": "CHEM-U15-KC02",
+              "chapter_id": "CHEM-U15",
+              "sequence": 2,
+              "knowledge_component": "Alkanes: conformations (sawhorse and Newman projections of ethane)"
+            },
+            {
+              "kc_id": "CHEM-U15-KC03",
+              "chapter_id": "CHEM-U15",
+              "sequence": 3,
+              "knowledge_component": "Alkanes: mechanism of halogenation"
+            },
+            {
+              "kc_id": "CHEM-U15-KC04",
+              "chapter_id": "CHEM-U15",
+              "sequence": 4,
+              "knowledge_component": "Alkenes: geometrical isomerism"
+            },
+            {
+              "kc_id": "CHEM-U15-KC05",
+              "chapter_id": "CHEM-U15",
+              "sequence": 5,
+              "knowledge_component": "Alkenes: mechanism of electrophilic addition (hydrogen, halogens, water, hydrogen halides), Markownikoff's and peroxide effect"
+            },
+            {
+              "kc_id": "CHEM-U15-KC06",
+              "chapter_id": "CHEM-U15",
+              "sequence": 6,
+              "knowledge_component": "Alkenes: ozonolysis and polymerization"
+            },
+            {
+              "kc_id": "CHEM-U15-KC07",
+              "chapter_id": "CHEM-U15",
+              "sequence": 7,
+              "knowledge_component": "Alkynes: acidic character"
+            },
+            {
+              "kc_id": "CHEM-U15-KC08",
+              "chapter_id": "CHEM-U15",
+              "sequence": 8,
+              "knowledge_component": "Alkynes: addition of hydrogen, halogens, water and hydrogen halides, polymerization"
+            },
+            {
+              "kc_id": "CHEM-U15-KC09",
+              "chapter_id": "CHEM-U15",
+              "sequence": 9,
+              "knowledge_component": "Aromatic hydrocarbons: benzene structure and aromaticity"
+            },
+            {
+              "kc_id": "CHEM-U15-KC10",
+              "chapter_id": "CHEM-U15",
+              "sequence": 10,
+              "knowledge_component": "Aromatic hydrocarbons: mechanism of electrophilic substitution, halogenation, nitration"
+            },
+            {
+              "kc_id": "CHEM-U15-KC11",
+              "chapter_id": "CHEM-U15",
+              "sequence": 11,
+              "knowledge_component": "Friedel-Craft's alkylation and acylation"
+            },
+            {
+              "kc_id": "CHEM-U15-KC12",
+              "chapter_id": "CHEM-U15",
+              "sequence": 12,
+              "knowledge_component": "Directive influence of functional groups in mono-substituted benzene"
+            }
+          ]
+        },
+        {
+          "chapter_id": "CHEM-U16",
+          "subject_id": 3,
+          "unit_number": 16,
+          "chapter_name": "Organic Compounds Containing Halogens",
+          "section": "Organic Chemistry",
+          "knowledge_components": [
+            {
+              "kc_id": "CHEM-U16-KC01",
+              "chapter_id": "CHEM-U16",
+              "sequence": 1,
+              "knowledge_component": "General methods of preparation, properties and reactions"
+            },
+            {
+              "kc_id": "CHEM-U16-KC02",
+              "chapter_id": "CHEM-U16",
+              "sequence": 2,
+              "knowledge_component": "Nature of C-X bond"
+            },
+            {
+              "kc_id": "CHEM-U16-KC03",
+              "chapter_id": "CHEM-U16",
+              "sequence": 3,
+              "knowledge_component": "Mechanisms of substitution reactions"
+            },
+            {
+              "kc_id": "CHEM-U16-KC04",
+              "chapter_id": "CHEM-U16",
+              "sequence": 4,
+              "knowledge_component": "Uses and environmental effects of chloroform, iodoform, freons and DDT"
+            }
+          ]
+        },
+        {
+          "chapter_id": "CHEM-U17",
+          "subject_id": 3,
+          "unit_number": 17,
+          "chapter_name": "Organic Compounds Containing Oxygen",
+          "section": "Organic Chemistry",
+          "knowledge_components": [
+            {
+              "kc_id": "CHEM-U17-KC01",
+              "chapter_id": "CHEM-U17",
+              "sequence": 1,
+              "knowledge_component": "General methods of preparation, properties, reactions and uses"
+            },
+            {
+              "kc_id": "CHEM-U17-KC02",
+              "chapter_id": "CHEM-U17",
+              "sequence": 2,
+              "knowledge_component": "Alcohols: identification of primary, secondary and tertiary alcohols"
+            },
+            {
+              "kc_id": "CHEM-U17-KC03",
+              "chapter_id": "CHEM-U17",
+              "sequence": 3,
+              "knowledge_component": "Alcohols: mechanism of dehydration"
+            },
+            {
+              "kc_id": "CHEM-U17-KC04",
+              "chapter_id": "CHEM-U17",
+              "sequence": 4,
+              "knowledge_component": "Phenols: acidic nature"
+            },
+            {
+              "kc_id": "CHEM-U17-KC05",
+              "chapter_id": "CHEM-U17",
+              "sequence": 5,
+              "knowledge_component": "Phenols: electrophilic substitution reactions (halogenation, nitration, sulphonation)"
+            },
+            {
+              "kc_id": "CHEM-U17-KC06",
+              "chapter_id": "CHEM-U17",
+              "sequence": 6,
+              "knowledge_component": "Phenols: Reimer-Tiemann reaction"
+            },
+            {
+              "kc_id": "CHEM-U17-KC07",
+              "chapter_id": "CHEM-U17",
+              "sequence": 7,
+              "knowledge_component": "Ethers: structure"
+            },
+            {
+              "kc_id": "CHEM-U17-KC08",
+              "chapter_id": "CHEM-U17",
+              "sequence": 8,
+              "knowledge_component": "Aldehydes and ketones: nature of carbonyl group and nucleophilic addition"
+            },
+            {
+              "kc_id": "CHEM-U17-KC09",
+              "chapter_id": "CHEM-U17",
+              "sequence": 9,
+              "knowledge_component": "Relative reactivities of aldehydes and ketones"
+            },
+            {
+              "kc_id": "CHEM-U17-KC10",
+              "chapter_id": "CHEM-U17",
+              "sequence": 10,
+              "knowledge_component": "Nucleophilic addition reactions (HCN, NH3 and its derivatives)"
+            },
+            {
+              "kc_id": "CHEM-U17-KC11",
+              "chapter_id": "CHEM-U17",
+              "sequence": 11,
+              "knowledge_component": "Grignard reagent"
+            },
+            {
+              "kc_id": "CHEM-U17-KC12",
+              "chapter_id": "CHEM-U17",
+              "sequence": 12,
+              "knowledge_component": "Oxidation and reduction (Wolff-Kishner and Clemmensen)"
+            },
+            {
+              "kc_id": "CHEM-U17-KC13",
+              "chapter_id": "CHEM-U17",
+              "sequence": 13,
+              "knowledge_component": "Acidity of alpha-hydrogen and aldol condensation"
+            },
+            {
+              "kc_id": "CHEM-U17-KC14",
+              "chapter_id": "CHEM-U17",
+              "sequence": 14,
+              "knowledge_component": "Cannizzaro reaction and haloform reaction"
+            },
+            {
+              "kc_id": "CHEM-U17-KC15",
+              "chapter_id": "CHEM-U17",
+              "sequence": 15,
+              "knowledge_component": "Chemical tests to distinguish between aldehydes and ketones"
+            },
+            {
+              "kc_id": "CHEM-U17-KC16",
+              "chapter_id": "CHEM-U17",
+              "sequence": 16,
+              "knowledge_component": "Carboxylic acids: acidic strength and factors affecting it"
+            }
+          ]
+        },
+        {
+          "chapter_id": "CHEM-U18",
+          "subject_id": 3,
+          "unit_number": 18,
+          "chapter_name": "Organic Compounds Containing Nitrogen",
+          "section": "Organic Chemistry",
+          "knowledge_components": [
+            {
+              "kc_id": "CHEM-U18-KC01",
+              "chapter_id": "CHEM-U18",
+              "sequence": 1,
+              "knowledge_component": "General methods of preparation, properties, reactions and uses"
+            },
+            {
+              "kc_id": "CHEM-U18-KC02",
+              "chapter_id": "CHEM-U18",
+              "sequence": 2,
+              "knowledge_component": "Amines: nomenclature, classification and structure"
+            },
+            {
+              "kc_id": "CHEM-U18-KC03",
+              "chapter_id": "CHEM-U18",
+              "sequence": 3,
+              "knowledge_component": "Amines: basic character and identification of primary, secondary and tertiary amines"
+            },
+            {
+              "kc_id": "CHEM-U18-KC04",
+              "chapter_id": "CHEM-U18",
+              "sequence": 4,
+              "knowledge_component": "Diazonium salts and their importance in synthetic organic chemistry"
+            }
+          ]
+        },
+        {
+          "chapter_id": "CHEM-U19",
+          "subject_id": 3,
+          "unit_number": 19,
+          "chapter_name": "Biomolecules",
+          "section": "Organic Chemistry",
+          "knowledge_components": [
+            {
+              "kc_id": "CHEM-U19-KC01",
+              "chapter_id": "CHEM-U19",
+              "sequence": 1,
+              "knowledge_component": "General introduction and importance of biomolecules"
+            },
+            {
+              "kc_id": "CHEM-U19-KC02",
+              "chapter_id": "CHEM-U19",
+              "sequence": 2,
+              "knowledge_component": "Carbohydrates: classification, aldoses and ketoses"
+            },
+            {
+              "kc_id": "CHEM-U19-KC03",
+              "chapter_id": "CHEM-U19",
+              "sequence": 3,
+              "knowledge_component": "Monosaccharides (glucose and fructose)"
+            },
+            {
+              "kc_id": "CHEM-U19-KC04",
+              "chapter_id": "CHEM-U19",
+              "sequence": 4,
+              "knowledge_component": "Constituent monosaccharides of oligosaccharides (sucrose, lactose and maltose)"
+            },
+            {
+              "kc_id": "CHEM-U19-KC05",
+              "chapter_id": "CHEM-U19",
+              "sequence": 5,
+              "knowledge_component": "Proteins: alpha-amino acids, peptide bond and polypeptides"
+            },
+            {
+              "kc_id": "CHEM-U19-KC06",
+              "chapter_id": "CHEM-U19",
+              "sequence": 6,
+              "knowledge_component": "Structure of proteins (primary, secondary, tertiary, quaternary) and denaturation"
+            },
+            {
+              "kc_id": "CHEM-U19-KC07",
+              "chapter_id": "CHEM-U19",
+              "sequence": 7,
+              "knowledge_component": "Enzymes"
+            },
+            {
+              "kc_id": "CHEM-U19-KC08",
+              "chapter_id": "CHEM-U19",
+              "sequence": 8,
+              "knowledge_component": "Vitamins: classification and functions"
+            },
+            {
+              "kc_id": "CHEM-U19-KC09",
+              "chapter_id": "CHEM-U19",
+              "sequence": 9,
+              "knowledge_component": "Nucleic acids: chemical constitution and biological functions of DNA and RNA"
+            },
+            {
+              "kc_id": "CHEM-U19-KC10",
+              "chapter_id": "CHEM-U19",
+              "sequence": 10,
+              "knowledge_component": "Hormones (general introduction)"
+            }
+          ]
+        },
+        {
+          "chapter_id": "CHEM-U20",
+          "subject_id": 3,
+          "unit_number": 20,
+          "chapter_name": "Principles Related to Practical Chemistry",
+          "section": "Organic Chemistry",
+          "knowledge_components": [
+            {
+              "kc_id": "CHEM-U20-KC01",
+              "chapter_id": "CHEM-U20",
+              "sequence": 1,
+              "knowledge_component": "Detection of extra elements (nitrogen, sulphur, halogens) in organic compounds"
+            },
+            {
+              "kc_id": "CHEM-U20-KC02",
+              "chapter_id": "CHEM-U20",
+              "sequence": 2,
+              "knowledge_component": "Detection of functional groups (hydroxyl, carbonyl, carboxyl, amino)"
+            },
+            {
+              "kc_id": "CHEM-U20-KC03",
+              "chapter_id": "CHEM-U20",
+              "sequence": 3,
+              "knowledge_component": "Chemistry of preparation of inorganic compounds: Mohr's salt and potash alum"
+            },
+            {
+              "kc_id": "CHEM-U20-KC04",
+              "chapter_id": "CHEM-U20",
+              "sequence": 4,
+              "knowledge_component": "Chemistry of preparation of organic compounds: acetanilide, p-nitroacetanilide, aniline yellow, iodoform"
+            },
+            {
+              "kc_id": "CHEM-U20-KC05",
+              "chapter_id": "CHEM-U20",
+              "sequence": 5,
+              "knowledge_component": "Titrimetric exercises: acids, bases and indicators (oxalic acid vs KMnO4, Mohr's salt vs KMnO4)"
+            },
+            {
+              "kc_id": "CHEM-U20-KC06",
+              "chapter_id": "CHEM-U20",
+              "sequence": 6,
+              "knowledge_component": "Qualitative salt analysis of cations (Pb2+, Cu2+, Al3+, Fe3+, Zn2+, Ni2+, Ca2+, Ba2+, Mg2+, NH4+)"
+            },
+            {
+              "kc_id": "CHEM-U20-KC07",
+              "chapter_id": "CHEM-U20",
+              "sequence": 7,
+              "knowledge_component": "Qualitative salt analysis of anions (CO3^2-, S^2-, SO4^2-, NO3-, NO2-, Cl-, Br-, I-)"
+            },
+            {
+              "kc_id": "CHEM-U20-KC08",
+              "chapter_id": "CHEM-U20",
+              "sequence": 8,
+              "knowledge_component": "Enthalpy of solution of CuSO4"
+            },
+            {
+              "kc_id": "CHEM-U20-KC09",
+              "chapter_id": "CHEM-U20",
+              "sequence": 9,
+              "knowledge_component": "Enthalpy of neutralization of strong acid and strong base"
+            },
+            {
+              "kc_id": "CHEM-U20-KC10",
+              "chapter_id": "CHEM-U20",
+              "sequence": 10,
+              "knowledge_component": "Preparation of lyophilic and lyophobic sols"
+            },
+            {
+              "kc_id": "CHEM-U20-KC11",
+              "chapter_id": "CHEM-U20",
+              "sequence": 11,
+              "knowledge_component": "Kinetic study of the reaction of iodide ions with hydrogen peroxide"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
